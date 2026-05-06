@@ -30,18 +30,36 @@
     "url": "https://receipts.bearblog.dev/the-freedom-of-writing-anonymously/",
     "title": "the freedom of writing anonymously",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 8,
+    "toasts": 12,
     "first_seen": "2026-05-06T19:37:54.893Z",
-    "last_updated": "2026-05-06T19:37:54.893Z",
+    "last_updated": "2026-05-06T20:36:35.420Z",
     "published": "2026-05-06T16:25Z"
   },
   {
     "url": "https://robertbirming.com/let-others-know-blog/",
     "title": "Let others know you blog",
     "author": "https://robertbirming.com",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-05-06T19:37:54.893Z",
-    "last_updated": "2026-05-06T19:37:54.893Z",
+    "last_updated": "2026-05-06T20:36:35.420Z",
     "published": "2026-05-06T16:27Z"
+  },
+  {
+    "url": "https://mattiverse.online/always-in-the-car/",
+    "title": "why is it always in a car?",
+    "author": "https://mattiverse.online",
+    "toasts": 7,
+    "first_seen": "2026-05-06T20:36:35.420Z",
+    "last_updated": "2026-05-06T20:36:35.420Z",
+    "published": "2026-05-06T19:50Z"
+  },
+  {
+    "url": "https://musings101.bearblog.dev/vinyl-records-should-still-contain-digital-download-codes/",
+    "title": "Vinyl Records Should Still Contain Digital Download Codes",
+    "author": "https://musings101.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-05-06T20:36:35.420Z",
+    "last_updated": "2026-05-06T20:36:35.420Z",
+    "published": "2026-05-06T18:43Z"
   }
 ]
