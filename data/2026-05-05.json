@@ -57,9 +57,9 @@
     "url": "https://woolgathering.bearblog.dev/learning-to-talk-about-things-i-like/",
     "title": "learning to talk about things i like",
     "author": "https://woolgathering.bearblog.dev",
-    "toasts": 22,
+    "toasts": 23,
     "first_seen": "2026-05-05T15:42:53.267Z",
-    "last_updated": "2026-05-06T12:47:44.349Z",
+    "last_updated": "2026-05-06T15:00:16.759Z",
     "published": "2026-05-05T11:40Z"
   },
   {
@@ -84,18 +84,18 @@
     "url": "https://blog.sulimans.space/superior-alts/",
     "title": "institutionally managed open source alternatives that don’t suck",
     "author": "https://blog.sulimans.space",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-05T18:39:06.688Z",
-    "last_updated": "2026-05-06T08:57:16.438Z",
+    "last_updated": "2026-05-06T15:00:16.759Z",
     "published": "2026-05-05T13:55Z"
   },
   {
     "url": "https://musings101.bearblog.dev/bear-blog-carnival-i-love-my-cinnamon-disc-golf/",
     "title": "Bear Blog Carnival: I love my Cinnamon (Disc Golf)",
     "author": "https://musings101.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-05T18:39:06.688Z",
-    "last_updated": "2026-05-06T11:38:53.046Z",
+    "last_updated": "2026-05-06T15:00:16.759Z",
     "published": "2026-05-05T13:49Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://mossbed.bearblog.dev/abandoning-the-algorithm/",
     "title": "abandoning the algorithm",
     "author": "https://mossbed.bearblog.dev",
-    "toasts": 20,
+    "toasts": 22,
     "first_seen": "2026-05-06T01:40:44.243Z",
-    "last_updated": "2026-05-06T13:41:50.339Z",
+    "last_updated": "2026-05-06T15:00:16.759Z",
     "published": "2026-05-05T23:36Z"
   },
   {
@@ -178,5 +178,14 @@
     "first_seen": "2026-05-06T12:47:44.349Z",
     "last_updated": "2026-05-06T12:47:44.349Z",
     "published": "2026-05-05T23:55Z"
+  },
+  {
+    "url": "https://explicatingelle.bearblog.dev/the-5-ws-of-reading/",
+    "title": "The 5 Ws of Reading",
+    "author": "https://explicatingelle.bearblog.dev",
+    "toasts": 4,
+    "first_seen": "2026-05-06T15:00:16.759Z",
+    "last_updated": "2026-05-06T15:00:16.759Z",
+    "published": "2026-05-05T19:26Z"
   }
 ]
