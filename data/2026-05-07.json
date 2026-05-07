@@ -3,9 +3,9 @@
     "url": "https://kalomaze.bearblog.dev/rl-for-knowledge-awareness/",
     "title": "Reinforcement Learning for Knowledge Awareness",
     "author": "https://kalomaze.bearblog.dev",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-05-07T05:13:54.824Z",
-    "last_updated": "2026-05-07T19:36:10.568Z",
+    "last_updated": "2026-05-07T20:32:48.353Z",
     "published": "2026-05-07T02:07Z"
   },
   {
@@ -21,27 +21,27 @@
     "url": "https://skryblans.com/blogging-wobbling/",
     "title": "blogging wobbling",
     "author": "https://skryblans.com",
-    "toasts": 19,
+    "toasts": 20,
     "first_seen": "2026-05-07T09:01:27.382Z",
-    "last_updated": "2026-05-07T19:36:10.568Z",
+    "last_updated": "2026-05-07T20:32:48.353Z",
     "published": "2026-05-07T07:08Z"
   },
   {
     "url": "https://receipts.bearblog.dev/are-you-still-waiting-to-be-chosen/",
     "title": "are you still waiting to be chosen?",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-05-07T09:01:27.382Z",
-    "last_updated": "2026-05-07T17:37:57.388Z",
+    "last_updated": "2026-05-07T20:32:48.353Z",
     "published": "2026-05-07T05:29Z"
   },
   {
     "url": "https://combatdavey.net/may-6-2026/",
     "title": "may 6 jvc",
     "author": "https://combatdavey.net",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-07T09:01:27.382Z",
-    "last_updated": "2026-05-07T19:36:10.568Z",
+    "last_updated": "2026-05-07T20:32:48.353Z",
     "published": "2026-05-07T03:44Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://fragmentadamente.bearblog.dev/a-minha-jornada-com-o-linux/",
     "title": "A minha jornada com o Linux",
     "author": "https://fragmentadamente.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-07T13:40:05.146Z",
-    "last_updated": "2026-05-07T16:39:53.962Z",
+    "last_updated": "2026-05-07T20:32:48.353Z",
     "published": "2026-05-07T12:12Z"
   },
   {
@@ -93,18 +93,18 @@
     "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
     "title": "agents need control flow, not more prompts",
     "author": "https://bsuh.bearblog.dev",
-    "toasts": 229,
+    "toasts": 326,
     "first_seen": "2026-05-07T17:37:57.388Z",
-    "last_updated": "2026-05-07T19:36:10.568Z",
+    "last_updated": "2026-05-07T20:32:48.353Z",
     "published": "2026-05-07T15:27Z"
   },
   {
     "url": "https://diels-daydreams.bearblog.dev/i-miss-my-passion/",
     "title": "I miss my passion",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-05-07T17:37:57.388Z",
-    "last_updated": "2026-05-07T19:36:10.568Z",
+    "last_updated": "2026-05-07T20:32:48.353Z",
     "published": "2026-05-07T16:00Z"
   },
   {
@@ -147,9 +147,27 @@
     "url": "https://tinkerdwarf.com/how-to-make-your-life-feel-real/",
     "title": "How to Make Your Life Feel Real",
     "author": "https://tinkerdwarf.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-07T19:36:10.568Z",
-    "last_updated": "2026-05-07T19:36:10.568Z",
+    "last_updated": "2026-05-07T20:32:48.353Z",
     "published": "2026-05-07T10:29Z"
+  },
+  {
+    "url": "https://receipts.bearblog.dev/bearblog-has-chosen-me/",
+    "title": "bearblog has chosen me",
+    "author": "https://receipts.bearblog.dev",
+    "toasts": 11,
+    "first_seen": "2026-05-07T20:32:48.353Z",
+    "last_updated": "2026-05-07T20:32:48.353Z",
+    "published": "2026-05-07T18:50Z"
+  },
+  {
+    "url": "https://reveriesofahuman.com/getting-married-is-relatively-inexpensive/",
+    "title": "Getting married is relatively inexpensive",
+    "author": "https://reveriesofahuman.com",
+    "toasts": 7,
+    "first_seen": "2026-05-07T20:32:48.353Z",
+    "last_updated": "2026-05-07T20:32:48.353Z",
+    "published": "2026-05-07T15:50Z"
   }
 ]
