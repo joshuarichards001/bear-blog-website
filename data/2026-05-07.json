@@ -30,9 +30,9 @@
     "url": "https://receipts.bearblog.dev/are-you-still-waiting-to-be-chosen/",
     "title": "are you still waiting to be chosen?",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-05-07T09:01:27.382Z",
-    "last_updated": "2026-05-07T16:39:53.962Z",
+    "last_updated": "2026-05-07T17:37:57.388Z",
     "published": "2026-05-07T05:29Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://blog.mattglassman.net/notes-on-influencing-politics/",
     "title": "Notes on influencing politics",
     "author": "https://blog.mattglassman.net",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-07T12:47:52.619Z",
-    "last_updated": "2026-05-07T12:47:52.619Z",
+    "last_updated": "2026-05-07T17:37:57.388Z",
     "published": "2026-05-07T01:26Z"
   },
   {
@@ -84,9 +84,54 @@
     "url": "https://xmargins.ink/i-love-you/",
     "title": "❤️❤️ I love you ❤️❤️",
     "author": "https://xmargins.ink",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-07T16:39:53.962Z",
-    "last_updated": "2026-05-07T16:39:53.962Z",
+    "last_updated": "2026-05-07T17:37:57.388Z",
     "published": "2026-05-07T03:23Z"
+  },
+  {
+    "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "title": "agents need control flow, not more prompts",
+    "author": "https://bsuh.bearblog.dev",
+    "toasts": 66,
+    "first_seen": "2026-05-07T17:37:57.388Z",
+    "last_updated": "2026-05-07T17:37:57.388Z",
+    "published": "2026-05-07T15:27Z"
+  },
+  {
+    "url": "https://diels-daydreams.bearblog.dev/i-miss-my-passion/",
+    "title": "I miss my passion",
+    "author": "https://diels-daydreams.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-07T17:37:57.388Z",
+    "last_updated": "2026-05-07T17:37:57.388Z",
+    "published": "2026-05-07T16:00Z"
+  },
+  {
+    "url": "https://blog.avas.space/cutoff/",
+    "title": "cutting off my mother was so worth it!",
+    "author": "https://blog.avas.space",
+    "toasts": 7,
+    "first_seen": "2026-05-07T17:37:57.388Z",
+    "last_updated": "2026-05-07T17:37:57.388Z",
+    "published": "2026-05-07T14:00Z"
+  },
+  {
+    "url": "https://via.bearblog.dev/3-months-of-hitting-the-gym/",
+    "title": "3 months of hitting the gym",
+    "author": "https://via.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-07T17:37:57.388Z",
+    "last_updated": "2026-05-07T17:37:57.388Z",
+    "published": "2026-05-07T07:19Z"
+  },
+  {
+    "url": "https://minimal.bearblog.dev/i-bought-an-analog-watch-and-i-love-it/",
+    "title": "I bought an analog watch and I love it",
+    "author": "https://minimal.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-05-07T17:37:57.388Z",
+    "last_updated": "2026-05-07T17:37:57.388Z",
+    "published": "2026-05-07T17:02Z"
   }
 ]
