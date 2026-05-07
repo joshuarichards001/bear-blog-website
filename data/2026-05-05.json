@@ -120,9 +120,9 @@
     "url": "https://mossbed.bearblog.dev/abandoning-the-algorithm/",
     "title": "abandoning the algorithm",
     "author": "https://mossbed.bearblog.dev",
-    "toasts": 37,
+    "toasts": 39,
     "first_seen": "2026-05-06T01:40:44.243Z",
-    "last_updated": "2026-05-07T00:54:38.781Z",
+    "last_updated": "2026-05-07T01:41:54.496Z",
     "published": "2026-05-05T23:36Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://livingkindfully.bearblog.dev/when-you-cannot-afford-a-new-macbook-do-this/",
     "title": "When You Cannot Afford a New Macbook, Do This",
     "author": "https://livingkindfully.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-05-06T11:38:53.046Z",
-    "last_updated": "2026-05-06T11:38:53.046Z",
+    "last_updated": "2026-05-07T01:41:54.496Z",
     "published": "2026-05-05T15:50Z"
   },
   {
@@ -187,5 +187,14 @@
     "first_seen": "2026-05-06T15:00:16.759Z",
     "last_updated": "2026-05-06T15:00:16.759Z",
     "published": "2026-05-05T19:26Z"
+  },
+  {
+    "url": "https://tala.bearblog.dev/i-havent-talked-about-depression-my-old-self-in-a-while/",
+    "title": "i haven't talked about depression & my old self in a while",
+    "author": "https://tala.bearblog.dev",
+    "toasts": 11,
+    "first_seen": "2026-05-07T01:41:54.496Z",
+    "last_updated": "2026-05-07T01:41:54.496Z",
+    "published": "2026-05-05T15:53Z"
   }
 ]
