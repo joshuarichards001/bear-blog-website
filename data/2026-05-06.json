@@ -30,18 +30,18 @@
     "url": "https://receipts.bearblog.dev/the-freedom-of-writing-anonymously/",
     "title": "the freedom of writing anonymously",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 66,
+    "toasts": 70,
     "first_seen": "2026-05-06T19:37:54.893Z",
-    "last_updated": "2026-05-07T23:23:32.336Z",
+    "last_updated": "2026-05-08T00:54:35.478Z",
     "published": "2026-05-06T16:25Z"
   },
   {
     "url": "https://robertbirming.com/let-others-know-blog/",
     "title": "Let others know you blog",
     "author": "https://robertbirming.com",
-    "toasts": 23,
+    "toasts": 24,
     "first_seen": "2026-05-06T19:37:54.893Z",
-    "last_updated": "2026-05-07T22:27:50.009Z",
+    "last_updated": "2026-05-08T00:54:35.478Z",
     "published": "2026-05-06T16:27Z"
   },
   {
@@ -133,5 +133,14 @@
     "first_seen": "2026-05-07T13:40:05.146Z",
     "last_updated": "2026-05-07T23:23:32.336Z",
     "published": "2026-05-06T16:36Z"
+  },
+  {
+    "url": "https://omniafluunt.me/stone-remembers/",
+    "title": "Stone remembers",
+    "author": "https://omniafluunt.me",
+    "toasts": 9,
+    "first_seen": "2026-05-08T00:54:35.478Z",
+    "last_updated": "2026-05-08T00:54:35.478Z",
+    "published": "2026-05-06T15:14Z"
   }
 ]
