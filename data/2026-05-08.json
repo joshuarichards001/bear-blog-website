@@ -30,9 +30,9 @@
     "url": "https://combatdavey.net/may-7-2026/",
     "title": "may 7 ibc",
     "author": "https://combatdavey.net",
-    "toasts": 60,
+    "toasts": 61,
     "first_seen": "2026-05-08T15:38:28.825Z",
-    "last_updated": "2026-05-09T19:28:56.483Z",
+    "last_updated": "2026-05-10T03:14:50.049Z",
     "published": "2026-05-08T03:42Z"
   },
   {
@@ -48,27 +48,27 @@
     "url": "https://blog.lauramichet.com/check-out-amberspire/",
     "title": "Check out Amberspire!",
     "author": "https://blog.lauramichet.com",
-    "toasts": 30,
+    "toasts": 31,
     "first_seen": "2026-05-08T16:37:13.524Z",
-    "last_updated": "2026-05-09T13:35:21.335Z",
+    "last_updated": "2026-05-10T03:14:50.049Z",
     "published": "2026-05-08T04:39Z"
   },
   {
     "url": "https://migrainebrain.bearblog.dev/a-rant-about-tv-shows/",
     "title": "A rant about TV shows",
     "author": "https://migrainebrain.bearblog.dev",
-    "toasts": 55,
+    "toasts": 56,
     "first_seen": "2026-05-08T16:37:13.524Z",
-    "last_updated": "2026-05-09T22:19:28.250Z",
+    "last_updated": "2026-05-10T03:14:50.049Z",
     "published": "2026-05-08T13:19Z"
   },
   {
     "url": "https://thinkings.space/of-becoming-a-mushroom/",
     "title": "Of becoming a mushroom",
     "author": "https://thinkings.space",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-05-08T17:36:32.046Z",
-    "last_updated": "2026-05-09T01:41:03.170Z",
+    "last_updated": "2026-05-10T03:14:50.049Z",
     "published": "2026-05-08T08:44Z"
   },
   {
@@ -84,27 +84,27 @@
     "url": "https://blog.absurdpirate.com/scams-that-we-just-accept/",
     "title": "Scams That We Just Accept",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 66,
+    "toasts": 70,
     "first_seen": "2026-05-08T22:25:09.472Z",
-    "last_updated": "2026-05-10T00:58:24.465Z",
+    "last_updated": "2026-05-10T03:14:50.049Z",
     "published": "2026-05-08T14:05Z"
   },
   {
     "url": "https://rnotte.art/is-old-stuff-better/",
     "title": "is old stuff better?",
     "author": "https://rnotte.art",
-    "toasts": 29,
+    "toasts": 30,
     "first_seen": "2026-05-08T22:25:09.472Z",
-    "last_updated": "2026-05-10T00:58:24.465Z",
+    "last_updated": "2026-05-10T03:14:50.049Z",
     "published": "2026-05-08T19:46Z"
   },
   {
     "url": "https://notesonliving.bearblog.dev/the-case-for-hope/",
     "title": "The Case for Hope",
     "author": "https://notesonliving.bearblog.dev",
-    "toasts": 47,
+    "toasts": 48,
     "first_seen": "2026-05-08T23:24:51.647Z",
-    "last_updated": "2026-05-09T22:19:28.250Z",
+    "last_updated": "2026-05-10T03:14:50.049Z",
     "published": "2026-05-08T17:55Z"
   },
   {
@@ -129,9 +129,9 @@
     "url": "https://khoaly.xyz/hi-i-am-in-aberdeen/",
     "title": "Hi, I am in Aberdeen!",
     "author": "https://khoaly.xyz",
-    "toasts": 14,
+    "toasts": 15,
     "first_seen": "2026-05-09T00:54:41.871Z",
-    "last_updated": "2026-05-09T18:26:17.274Z",
+    "last_updated": "2026-05-10T03:14:50.049Z",
     "published": "2026-05-08T21:18Z"
   },
   {
@@ -156,18 +156,27 @@
     "url": "https://tugbakibar.pro/my-ongoing-digital-cleanup/",
     "title": "my ongoing digital cleanup",
     "author": "https://tugbakibar.pro",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-05-09T06:51:23.454Z",
-    "last_updated": "2026-05-09T06:51:23.454Z",
+    "last_updated": "2026-05-10T03:14:50.049Z",
     "published": "2026-05-08T16:37Z"
   },
   {
     "url": "https://moodywarlock.net/more-of-my-crap-drawing-in-colour-this-time/",
     "title": "More of my crap drawing, in colour this time",
     "author": "https://moodywarlock.net",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-05-09T18:26:17.274Z",
-    "last_updated": "2026-05-09T18:26:17.274Z",
+    "last_updated": "2026-05-10T03:14:50.049Z",
     "published": "2026-05-08T03:30Z"
+  },
+  {
+    "url": "https://receipts.bearblog.dev/picking-at-your-calluses/",
+    "title": "picking at your calluses",
+    "author": "https://receipts.bearblog.dev",
+    "toasts": 13,
+    "first_seen": "2026-05-10T03:14:50.049Z",
+    "last_updated": "2026-05-10T03:14:50.049Z",
+    "published": "2026-05-08T15:12Z"
   }
 ]
