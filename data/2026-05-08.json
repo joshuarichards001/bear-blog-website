@@ -30,9 +30,9 @@
     "url": "https://combatdavey.net/may-7-2026/",
     "title": "may 7 ibc",
     "author": "https://combatdavey.net",
-    "toasts": 62,
+    "toasts": 63,
     "first_seen": "2026-05-08T15:38:28.825Z",
-    "last_updated": "2026-05-10T08:43:25.886Z",
+    "last_updated": "2026-05-10T20:20:51.324Z",
     "published": "2026-05-08T03:42Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://blog.absurdpirate.com/scams-that-we-just-accept/",
     "title": "Scams That We Just Accept",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 74,
+    "toasts": 75,
     "first_seen": "2026-05-08T22:25:09.472Z",
-    "last_updated": "2026-05-10T18:26:17.099Z",
+    "last_updated": "2026-05-10T20:20:51.324Z",
     "published": "2026-05-08T14:05Z"
   },
   {
@@ -187,5 +187,14 @@
     "first_seen": "2026-05-10T07:02:37.631Z",
     "last_updated": "2026-05-10T07:02:37.631Z",
     "published": "2026-05-08T14:24Z"
+  },
+  {
+    "url": "https://puppynet.work/one-month-of-bear/",
+    "title": "One month of Bear",
+    "author": "https://puppynet.work",
+    "toasts": 13,
+    "first_seen": "2026-05-10T20:20:51.324Z",
+    "last_updated": "2026-05-10T20:20:51.324Z",
+    "published": "2026-05-08T21:50Z"
   }
 ]
