@@ -3,18 +3,18 @@
     "url": "https://sameoldstory.co/ive-been-blocking-social-media-on-the-weekends/",
     "title": "I've been blocking social media on the weekends.",
     "author": "https://sameoldstory.co",
-    "toasts": 34,
+    "toasts": 36,
     "first_seen": "2026-05-09T07:38:49.794Z",
-    "last_updated": "2026-05-10T15:25:35.399Z",
+    "last_updated": "2026-05-11T07:24:31.024Z",
     "published": "2026-05-09T00:30Z"
   },
   {
     "url": "https://blog.avas.space/social-media-abusive/",
     "title": "your social media habits sound like an abusive relationship",
     "author": "https://blog.avas.space",
-    "toasts": 54,
+    "toasts": 55,
     "first_seen": "2026-05-09T10:26:59.286Z",
-    "last_updated": "2026-05-11T03:17:18.478Z",
+    "last_updated": "2026-05-11T07:24:31.024Z",
     "published": "2026-05-09T08:13Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://skuka.online/when-someone-upvotes-my-post-it-feels-like-a-friendly-smile-by-a-stranger/",
     "title": "when someone upvotes my post, it feels like a friendly smile by a stranger",
     "author": "https://skuka.online",
-    "toasts": 74,
+    "toasts": 79,
     "first_seen": "2026-05-09T15:24:22.674Z",
-    "last_updated": "2026-05-11T05:26:03.515Z",
+    "last_updated": "2026-05-11T07:24:31.024Z",
     "published": "2026-05-09T11:15Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://waffles.bearblog.dev/sexy-mushroom/",
     "title": "Sexy Mushroom",
     "author": "https://waffles.bearblog.dev",
-    "toasts": 48,
+    "toasts": 51,
     "first_seen": "2026-05-09T19:28:56.483Z",
-    "last_updated": "2026-05-11T00:58:29.986Z",
+    "last_updated": "2026-05-11T07:24:31.024Z",
     "published": "2026-05-09T03:33Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-05-10T05:18:47.040Z",
     "last_updated": "2026-05-11T00:58:29.986Z",
     "published": "2026-05-09T22:53Z"
+  },
+  {
+    "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+    "title": "Im going back to writing code by hand",
+    "author": "https://blog.k10s.dev",
+    "toasts": 14,
+    "first_seen": "2026-05-11T07:24:31.024Z",
+    "last_updated": "2026-05-11T07:24:31.024Z",
+    "published": "2026-05-09T17:00Z"
   }
 ]
