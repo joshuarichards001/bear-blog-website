@@ -3,9 +3,9 @@
     "url": "https://tiramisu.bearblog.dev/other-blogs-my-readers-like/",
     "title": "other blogs my readers like",
     "author": "https://tiramisu.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-05-12T05:19:45.067Z",
-    "last_updated": "2026-05-12T12:50:49.650Z",
+    "last_updated": "2026-05-12T16:50:01.027Z",
     "published": "2026-05-12T00:43Z"
   },
   {
@@ -16,5 +16,23 @@
     "first_seen": "2026-05-12T11:42:06.149Z",
     "last_updated": "2026-05-12T11:42:06.149Z",
     "published": "2026-05-12T07:46Z"
+  },
+  {
+    "url": "https://blog.absurdpirate.com/graduated-community-college/",
+    "title": "Graduated Community College",
+    "author": "https://blog.absurdpirate.com",
+    "toasts": 11,
+    "first_seen": "2026-05-12T16:50:01.027Z",
+    "last_updated": "2026-05-12T16:50:01.027Z",
+    "published": "2026-05-12T14:42Z"
+  },
+  {
+    "url": "https://jamesphilbrick.com/kagi-good-enough-to-leave-google-search/",
+    "title": "Kagi: Good Enough to Leave Google (search)",
+    "author": "https://jamesphilbrick.com",
+    "toasts": 10,
+    "first_seen": "2026-05-12T16:50:01.027Z",
+    "last_updated": "2026-05-12T16:50:01.027Z",
+    "published": "2026-05-12T06:04Z"
   }
 ]
