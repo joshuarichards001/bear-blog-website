@@ -57,9 +57,9 @@
     "url": "https://migrainebrain.bearblog.dev/a-rant-about-tv-shows/",
     "title": "A rant about TV shows",
     "author": "https://migrainebrain.bearblog.dev",
-    "toasts": 63,
+    "toasts": 64,
     "first_seen": "2026-05-08T16:37:13.524Z",
-    "last_updated": "2026-05-12T01:41:16.481Z",
+    "last_updated": "2026-05-12T09:05:52.517Z",
     "published": "2026-05-08T13:19Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://blog.absurdpirate.com/scams-that-we-just-accept/",
     "title": "Scams That We Just Accept",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 98,
+    "toasts": 99,
     "first_seen": "2026-05-08T22:25:09.472Z",
-    "last_updated": "2026-05-12T03:15:16.569Z",
+    "last_updated": "2026-05-12T09:05:52.517Z",
     "published": "2026-05-08T14:05Z"
   },
   {
@@ -147,9 +147,9 @@
     "url": "https://manateeswake.bearblog.dev/autism-humanities/",
     "title": "STEM is not \"more autistic\" than the humanities",
     "author": "https://manateeswake.bearblog.dev",
-    "toasts": 39,
+    "toasts": 40,
     "first_seen": "2026-05-09T00:54:41.871Z",
-    "last_updated": "2026-05-12T03:15:16.569Z",
+    "last_updated": "2026-05-12T09:05:52.517Z",
     "published": "2026-05-08T18:16Z"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://receipts.bearblog.dev/picking-at-your-calluses/",
     "title": "picking at your calluses",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 20,
+    "toasts": 21,
     "first_seen": "2026-05-10T03:14:50.049Z",
-    "last_updated": "2026-05-11T15:09:03.947Z",
+    "last_updated": "2026-05-12T09:05:52.517Z",
     "published": "2026-05-08T15:12Z"
   },
   {
@@ -192,9 +192,18 @@
     "url": "https://puppynet.work/one-month-of-bear/",
     "title": "One month of Bear",
     "author": "https://puppynet.work",
-    "toasts": 37,
+    "toasts": 38,
     "first_seen": "2026-05-10T20:20:51.324Z",
-    "last_updated": "2026-05-11T21:34:33.486Z",
+    "last_updated": "2026-05-12T09:05:52.517Z",
     "published": "2026-05-08T21:50Z"
+  },
+  {
+    "url": "https://user8.bearblog.dev/rant/",
+    "title": "Soldering",
+    "author": "https://user8.bearblog.dev",
+    "toasts": 27,
+    "first_seen": "2026-05-12T09:05:52.517Z",
+    "last_updated": "2026-05-12T09:05:52.517Z",
+    "published": "2026-05-08T07:03Z"
   }
 ]
