@@ -21,9 +21,9 @@
     "url": "https://untangled.bearblog.dev/make-email-fun-again/",
     "title": "Make Email Fun Again!",
     "author": "https://untangled.bearblog.dev",
-    "toasts": 35,
+    "toasts": 38,
     "first_seen": "2026-05-13T16:53:36.020Z",
-    "last_updated": "2026-05-14T17:39:38.751Z",
+    "last_updated": "2026-05-14T18:44:25.034Z",
     "published": "2026-05-13T12:46Z"
   },
   {
@@ -52,5 +52,14 @@
     "first_seen": "2026-05-14T11:38:52.283Z",
     "last_updated": "2026-05-14T11:38:52.283Z",
     "published": "2026-05-13T14:06Z"
+  },
+  {
+    "url": "https://robertbirming.com/projects-that-never-ends/",
+    "title": "Projects that never ends",
+    "author": "https://robertbirming.com",
+    "toasts": 10,
+    "first_seen": "2026-05-14T18:44:25.034Z",
+    "last_updated": "2026-05-14T18:44:25.034Z",
+    "published": "2026-05-13T18:31Z"
   }
 ]
