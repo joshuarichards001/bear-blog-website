@@ -3,27 +3,27 @@
     "url": "https://receipts.bearblog.dev/creating-is-living-consuming-is-not/",
     "title": "creating is living, consuming is not",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-05-14T09:04:30.131Z",
-    "last_updated": "2026-05-15T03:16:39.091Z",
+    "last_updated": "2026-05-15T09:13:09.178Z",
     "published": "2026-05-14T05:01Z"
   },
   {
     "url": "https://skryblans.com/left-behind/",
     "title": "left behind",
     "author": "https://skryblans.com",
-    "toasts": 38,
+    "toasts": 40,
     "first_seen": "2026-05-14T10:53:14.426Z",
-    "last_updated": "2026-05-15T07:17:10.851Z",
+    "last_updated": "2026-05-15T09:13:09.178Z",
     "published": "2026-05-14T07:48Z"
   },
   {
     "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
     "title": "God Damn AI is making me dumb",
     "author": "https://jpain.io",
-    "toasts": 889,
+    "toasts": 941,
     "first_seen": "2026-05-14T18:44:25.034Z",
-    "last_updated": "2026-05-15T07:17:10.851Z",
+    "last_updated": "2026-05-15T09:13:09.178Z",
     "published": "2026-05-14T18:17Z"
   },
   {
@@ -39,27 +39,27 @@
     "url": "https://jpain.io/i-love-linux-but-i-cant-quit-windows/",
     "title": "I love Linux, but I can't quit Windows",
     "author": "https://jpain.io",
-    "toasts": 24,
+    "toasts": 25,
     "first_seen": "2026-05-14T20:36:17.761Z",
-    "last_updated": "2026-05-15T07:17:10.851Z",
+    "last_updated": "2026-05-15T09:13:09.178Z",
     "published": "2026-05-14T16:47Z"
   },
   {
     "url": "https://rnotte.art/id-rather-die-than-be-a-content-creator/",
     "title": "i’d rather die than be a content creator",
     "author": "https://rnotte.art",
-    "toasts": 16,
+    "toasts": 20,
     "first_seen": "2026-05-15T00:56:56.237Z",
-    "last_updated": "2026-05-15T07:17:10.851Z",
+    "last_updated": "2026-05-15T09:13:09.178Z",
     "published": "2026-05-14T21:28Z"
   },
   {
     "url": "https://puppynet.work/my-battery-is-low-and-its-getting-dark/",
     "title": "My battery is low and it's getting dark",
     "author": "https://puppynet.work",
-    "toasts": 21,
+    "toasts": 26,
     "first_seen": "2026-05-15T00:56:56.237Z",
-    "last_updated": "2026-05-15T07:17:10.851Z",
+    "last_updated": "2026-05-15T09:13:09.178Z",
     "published": "2026-05-14T20:43Z"
   },
   {
@@ -75,18 +75,27 @@
     "url": "https://nataliewrites.lol/consumption-eats-creation/",
     "title": "consumption eats creation",
     "author": "https://nataliewrites.lol",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-05-15T03:16:39.091Z",
-    "last_updated": "2026-05-15T07:17:10.851Z",
+    "last_updated": "2026-05-15T09:13:09.178Z",
     "published": "2026-05-14T22:16Z"
   },
   {
     "url": "https://stitching.bearblog.dev/a-notebook-just-for-recording-things-i-have-done/",
     "title": "a notebook just for recording things i have done",
     "author": "https://stitching.bearblog.dev",
-    "toasts": 9,
+    "toasts": 11,
     "first_seen": "2026-05-15T07:17:10.851Z",
-    "last_updated": "2026-05-15T07:17:10.851Z",
+    "last_updated": "2026-05-15T09:13:09.178Z",
     "published": "2026-05-14T22:00Z"
+  },
+  {
+    "url": "https://sameoldstory.co/on-going-viral/",
+    "title": "I've \"gone viral\" before and I don't recommend it!",
+    "author": "https://sameoldstory.co",
+    "toasts": 9,
+    "first_seen": "2026-05-15T09:13:09.178Z",
+    "last_updated": "2026-05-15T09:13:09.178Z",
+    "published": "2026-05-14T21:18Z"
   }
 ]
