@@ -3,27 +3,27 @@
     "url": "https://receipts.bearblog.dev/creating-is-living-consuming-is-not/",
     "title": "creating is living, consuming is not",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-05-14T09:04:30.131Z",
-    "last_updated": "2026-05-15T01:44:43.758Z",
+    "last_updated": "2026-05-15T03:16:39.091Z",
     "published": "2026-05-14T05:01Z"
   },
   {
     "url": "https://skryblans.com/left-behind/",
     "title": "left behind",
     "author": "https://skryblans.com",
-    "toasts": 25,
+    "toasts": 31,
     "first_seen": "2026-05-14T10:53:14.426Z",
-    "last_updated": "2026-05-15T01:44:43.758Z",
+    "last_updated": "2026-05-15T03:16:39.091Z",
     "published": "2026-05-14T07:48Z"
   },
   {
     "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
     "title": "God Damn AI is making me dumb",
     "author": "https://jpain.io",
-    "toasts": 751,
+    "toasts": 791,
     "first_seen": "2026-05-14T18:44:25.034Z",
-    "last_updated": "2026-05-15T01:44:43.758Z",
+    "last_updated": "2026-05-15T03:16:39.091Z",
     "published": "2026-05-14T18:17Z"
   },
   {
@@ -39,27 +39,27 @@
     "url": "https://jpain.io/i-love-linux-but-i-cant-quit-windows/",
     "title": "I love Linux, but I can't quit Windows",
     "author": "https://jpain.io",
-    "toasts": 15,
+    "toasts": 17,
     "first_seen": "2026-05-14T20:36:17.761Z",
-    "last_updated": "2026-05-15T01:44:43.758Z",
+    "last_updated": "2026-05-15T03:16:39.091Z",
     "published": "2026-05-14T16:47Z"
   },
   {
     "url": "https://rnotte.art/id-rather-die-than-be-a-content-creator/",
     "title": "i’d rather die than be a content creator",
     "author": "https://rnotte.art",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-05-15T00:56:56.237Z",
-    "last_updated": "2026-05-15T01:44:43.758Z",
+    "last_updated": "2026-05-15T03:16:39.091Z",
     "published": "2026-05-14T21:28Z"
   },
   {
     "url": "https://puppynet.work/my-battery-is-low-and-its-getting-dark/",
     "title": "My battery is low and it's getting dark",
     "author": "https://puppynet.work",
-    "toasts": 9,
+    "toasts": 13,
     "first_seen": "2026-05-15T00:56:56.237Z",
-    "last_updated": "2026-05-15T00:56:56.237Z",
+    "last_updated": "2026-05-15T03:16:39.091Z",
     "published": "2026-05-14T20:43Z"
   },
   {
@@ -70,5 +70,14 @@
     "first_seen": "2026-05-15T00:56:56.237Z",
     "last_updated": "2026-05-15T00:56:56.237Z",
     "published": "2026-05-14T19:54Z"
+  },
+  {
+    "url": "https://nataliewrites.lol/consumption-eats-creation/",
+    "title": "consumption eats creation",
+    "author": "https://nataliewrites.lol",
+    "toasts": 10,
+    "first_seen": "2026-05-15T03:16:39.091Z",
+    "last_updated": "2026-05-15T03:16:39.091Z",
+    "published": "2026-05-14T22:16Z"
   }
 ]
