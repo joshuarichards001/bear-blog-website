@@ -12,18 +12,18 @@
     "url": "https://skryblans.com/left-behind/",
     "title": "left behind",
     "author": "https://skryblans.com",
-    "toasts": 44,
+    "toasts": 48,
     "first_seen": "2026-05-14T10:53:14.426Z",
-    "last_updated": "2026-05-15T11:42:14.598Z",
+    "last_updated": "2026-05-15T12:45:56.639Z",
     "published": "2026-05-14T07:48Z"
   },
   {
     "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
     "title": "God Damn AI is making me dumb",
     "author": "https://jpain.io",
-    "toasts": 997,
+    "toasts": 1027,
     "first_seen": "2026-05-14T18:44:25.034Z",
-    "last_updated": "2026-05-15T11:42:14.598Z",
+    "last_updated": "2026-05-15T12:45:56.639Z",
     "published": "2026-05-14T18:17Z"
   },
   {
@@ -48,36 +48,36 @@
     "url": "https://rnotte.art/id-rather-die-than-be-a-content-creator/",
     "title": "i’d rather die than be a content creator",
     "author": "https://rnotte.art",
-    "toasts": 21,
+    "toasts": 25,
     "first_seen": "2026-05-15T00:56:56.237Z",
-    "last_updated": "2026-05-15T10:52:46.049Z",
+    "last_updated": "2026-05-15T12:45:56.639Z",
     "published": "2026-05-14T21:28Z"
   },
   {
     "url": "https://puppynet.work/my-battery-is-low-and-its-getting-dark/",
     "title": "My battery is low and it's getting dark",
     "author": "https://puppynet.work",
-    "toasts": 32,
+    "toasts": 35,
     "first_seen": "2026-05-15T00:56:56.237Z",
-    "last_updated": "2026-05-15T11:42:14.598Z",
+    "last_updated": "2026-05-15T12:45:56.639Z",
     "published": "2026-05-14T20:43Z"
   },
   {
     "url": "https://robertbirming.com/full-of-life/",
     "title": "Full of life",
     "author": "https://robertbirming.com",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-05-15T00:56:56.237Z",
-    "last_updated": "2026-05-15T11:42:14.598Z",
+    "last_updated": "2026-05-15T12:45:56.639Z",
     "published": "2026-05-14T19:54Z"
   },
   {
     "url": "https://nataliewrites.lol/consumption-eats-creation/",
     "title": "consumption eats creation",
     "author": "https://nataliewrites.lol",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-05-15T03:16:39.091Z",
-    "last_updated": "2026-05-15T10:52:46.049Z",
+    "last_updated": "2026-05-15T12:45:56.639Z",
     "published": "2026-05-14T22:16Z"
   },
   {
@@ -97,5 +97,14 @@
     "first_seen": "2026-05-15T09:13:09.178Z",
     "last_updated": "2026-05-15T09:13:09.178Z",
     "published": "2026-05-14T21:18Z"
+  },
+  {
+    "url": "https://bx.bearblog.dev/not-every-day-is-a-hit/",
+    "title": "not every day is a hit",
+    "author": "https://bx.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-05-15T12:45:56.639Z",
+    "last_updated": "2026-05-15T12:45:56.639Z",
+    "published": "2026-05-14T19:25Z"
   }
 ]
