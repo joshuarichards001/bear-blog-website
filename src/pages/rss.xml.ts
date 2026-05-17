@@ -1,7 +1,7 @@
 import rss from "@astrojs/rss";
 import type { APIContext } from "astro";
-import { getAllDayDates, loadDay } from "../lib/posts";
 import { formatDate } from "../lib/format";
+import { getAllDayDates, loadDay } from "../lib/posts";
 
 export function GET(context: APIContext) {
   const allDates = getAllDayDates();
@@ -43,14 +43,17 @@ export function GET(context: APIContext) {
       {
         title: `${formatDate(date)} - Top 10`,
         link: `${context.site!}archive/${date}`,
-        pubDate: new Date(date),
+        pubDate: new Date(new Date(date + "T09:00:00Z").getTime() + 86400000),
         content: `<ol>${listHtml}</ol>`,
       },
     ];
   });
 
+  const latestDate = new Date(dates[0] + "T12:00:00Z");
+  const feedTitle = `Bear Blog Top 10 - ${latestDate.toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }).replace(",", "")}`;
+
   return rss({
-    title: "Bear Roll — Daily Top 10",
+    title: feedTitle,
     description: "Daily top 10 posts from Bear Blog's discover page",
     site: context.site!,
     items,
