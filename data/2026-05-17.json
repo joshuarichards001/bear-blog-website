@@ -3,9 +3,9 @@
     "url": "https://myjourneywithdepression.com/the-weirdly-normal-process-of-going-to-hospital-for-self-harm/",
     "title": "The Weirdly Normal Process of Going to Hospital for Self-Harm",
     "author": "https://myjourneywithdepression.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-17T09:38:51.096Z",
-    "last_updated": "2026-05-17T13:35:22.398Z",
+    "last_updated": "2026-05-17T18:29:08.185Z",
     "published": "2026-05-17T04:25Z"
   },
   {
@@ -30,18 +30,18 @@
     "url": "https://bez-lightyear.bearblog.dev/eurotrashed/",
     "title": "Eurotrashed",
     "author": "https://bez-lightyear.bearblog.dev",
-    "toasts": 36,
+    "toasts": 38,
     "first_seen": "2026-05-17T11:29:58.167Z",
-    "last_updated": "2026-05-17T17:26:14.071Z",
+    "last_updated": "2026-05-17T18:29:08.185Z",
     "published": "2026-05-17T10:15Z"
   },
   {
     "url": "https://mattiverse.online/replaced-social-media/",
     "title": "replaced social media with a different form",
     "author": "https://mattiverse.online",
-    "toasts": 16,
+    "toasts": 17,
     "first_seen": "2026-05-17T11:29:58.167Z",
-    "last_updated": "2026-05-17T15:27:29.412Z",
+    "last_updated": "2026-05-17T18:29:08.185Z",
     "published": "2026-05-17T09:25Z"
   },
   {
@@ -57,18 +57,27 @@
     "url": "https://chas.quest/beginning-the-big-o/",
     "title": "Beginning the Big O",
     "author": "https://chas.quest",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-05-17T15:27:29.412Z",
-    "last_updated": "2026-05-17T15:27:29.412Z",
+    "last_updated": "2026-05-17T18:29:08.185Z",
     "published": "2026-05-17T13:26Z"
   },
   {
     "url": "https://blog.avas.space/uber-data-leak/",
     "title": "i suspect there is a new uber data leak",
     "author": "https://blog.avas.space",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-05-17T17:26:14.071Z",
-    "last_updated": "2026-05-17T17:26:14.071Z",
+    "last_updated": "2026-05-17T18:29:08.185Z",
     "published": "2026-05-17T13:06Z"
+  },
+  {
+    "url": "https://scottgehlbach.bearblog.dev/on-arxiv-llms-and-what-it-means-to-put-your-name-on-a-paper/",
+    "title": "On arXiv, LLMs, and What It Means to Put Your Name on a Paper",
+    "author": "https://scottgehlbach.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-17T18:29:08.185Z",
+    "last_updated": "2026-05-17T18:29:08.185Z",
+    "published": "2026-05-17T16:22Z"
   }
 ]
