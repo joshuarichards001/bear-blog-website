@@ -21,9 +21,27 @@
     "url": "https://zine.help/zine-internet-tv-guide-9/",
     "title": "(zine) Internet TV Guide #9",
     "author": "https://zine.help",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-05-17T09:38:51.096Z",
-    "last_updated": "2026-05-17T09:38:51.096Z",
+    "last_updated": "2026-05-17T11:29:58.167Z",
     "published": "2026-05-17T05:42Z"
+  },
+  {
+    "url": "https://bez-lightyear.bearblog.dev/eurotrashed/",
+    "title": "Eurotrashed",
+    "author": "https://bez-lightyear.bearblog.dev",
+    "toasts": 22,
+    "first_seen": "2026-05-17T11:29:58.167Z",
+    "last_updated": "2026-05-17T11:29:58.167Z",
+    "published": "2026-05-17T10:15Z"
+  },
+  {
+    "url": "https://mattiverse.online/replaced-social-media/",
+    "title": "replaced social media with a different form",
+    "author": "https://mattiverse.online",
+    "toasts": 11,
+    "first_seen": "2026-05-17T11:29:58.167Z",
+    "last_updated": "2026-05-17T11:29:58.167Z",
+    "published": "2026-05-17T09:25Z"
   }
 ]
