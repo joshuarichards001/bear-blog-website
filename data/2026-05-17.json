@@ -30,18 +30,18 @@
     "url": "https://bez-lightyear.bearblog.dev/eurotrashed/",
     "title": "Eurotrashed",
     "author": "https://bez-lightyear.bearblog.dev",
-    "toasts": 38,
+    "toasts": 40,
     "first_seen": "2026-05-17T11:29:58.167Z",
-    "last_updated": "2026-05-17T18:29:08.185Z",
+    "last_updated": "2026-05-17T20:21:44.185Z",
     "published": "2026-05-17T10:15Z"
   },
   {
     "url": "https://mattiverse.online/replaced-social-media/",
     "title": "replaced social media with a different form",
     "author": "https://mattiverse.online",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-05-17T11:29:58.167Z",
-    "last_updated": "2026-05-17T18:29:08.185Z",
+    "last_updated": "2026-05-17T20:21:44.185Z",
     "published": "2026-05-17T09:25Z"
   },
   {
@@ -66,18 +66,27 @@
     "url": "https://blog.avas.space/uber-data-leak/",
     "title": "i suspect there is a new uber data leak",
     "author": "https://blog.avas.space",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-17T17:26:14.071Z",
-    "last_updated": "2026-05-17T19:30:27.746Z",
+    "last_updated": "2026-05-17T20:21:44.185Z",
     "published": "2026-05-17T13:06Z"
   },
   {
     "url": "https://scottgehlbach.bearblog.dev/on-arxiv-llms-and-what-it-means-to-put-your-name-on-a-paper/",
     "title": "On arXiv, LLMs, and What It Means to Put Your Name on a Paper",
     "author": "https://scottgehlbach.bearblog.dev",
-    "toasts": 9,
+    "toasts": 12,
     "first_seen": "2026-05-17T18:29:08.185Z",
-    "last_updated": "2026-05-17T19:30:27.746Z",
+    "last_updated": "2026-05-17T20:21:44.185Z",
     "published": "2026-05-17T16:22Z"
+  },
+  {
+    "url": "https://livingkindfully.bearblog.dev/adults-have-lost-the-ability-to-smile-why/",
+    "title": "Adults Have Lost the Ability to Smile, Why?",
+    "author": "https://livingkindfully.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-17T20:21:44.185Z",
+    "last_updated": "2026-05-17T20:21:44.185Z",
+    "published": "2026-05-17T15:31Z"
   }
 ]
