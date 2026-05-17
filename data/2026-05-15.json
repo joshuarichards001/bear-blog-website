@@ -12,18 +12,18 @@
     "url": "https://trueself.bearblog.dev/if-you-like-someones-blog-you-should-probably-tell-them/",
     "title": "If you like someone’s blog, you should probably tell them",
     "author": "https://trueself.bearblog.dev",
-    "toasts": 64,
+    "toasts": 66,
     "first_seen": "2026-05-15T16:41:00.869Z",
-    "last_updated": "2026-05-16T22:20:53.524Z",
+    "last_updated": "2026-05-17T01:43:19.913Z",
     "published": "2026-05-15T16:22Z"
   },
   {
     "url": "https://justaqueerbookblog.bearblog.dev/boo-pinterest/",
     "title": "I Hate AI More Than I Miss Pinterest",
     "author": "https://justaqueerbookblog.bearblog.dev",
-    "toasts": 111,
+    "toasts": 113,
     "first_seen": "2026-05-15T18:40:08.864Z",
-    "last_updated": "2026-05-16T21:21:16.893Z",
+    "last_updated": "2026-05-17T01:43:19.913Z",
     "published": "2026-05-15T17:00Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://nostalgia.bearblog.dev/ai-astroturfing/",
     "title": "enough with the ai astroturfing",
     "author": "https://nostalgia.bearblog.dev",
-    "toasts": 98,
+    "toasts": 100,
     "first_seen": "2026-05-15T20:31:09.199Z",
-    "last_updated": "2026-05-16T21:21:16.893Z",
+    "last_updated": "2026-05-17T01:43:19.913Z",
     "published": "2026-05-15T18:49Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://jollyanchorblog.bearblog.dev/finally-debt-free/",
     "title": "finally debt free",
     "author": "https://jollyanchorblog.bearblog.dev",
-    "toasts": 13,
+    "toasts": 14,
     "first_seen": "2026-05-16T01:41:15.431Z",
-    "last_updated": "2026-05-16T19:29:08.373Z",
+    "last_updated": "2026-05-17T01:43:19.913Z",
     "published": "2026-05-15T21:59Z"
   },
   {
@@ -93,18 +93,27 @@
     "url": "https://jetgirl.art/project-a-bandcamp-for-zines/",
     "title": "Project: A Bandcamp for Zines",
     "author": "https://jetgirl.art",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-05-16T06:54:20.608Z",
-    "last_updated": "2026-05-17T01:00:11.396Z",
+    "last_updated": "2026-05-17T01:43:19.913Z",
     "published": "2026-05-15T21:52Z"
   },
   {
     "url": "https://vishalblog.bearblog.dev/depression/",
     "title": "diminished sympathy for the depressed",
     "author": "https://vishalblog.bearblog.dev",
-    "toasts": 22,
+    "toasts": 26,
     "first_seen": "2026-05-16T17:25:16.130Z",
-    "last_updated": "2026-05-16T22:20:53.524Z",
+    "last_updated": "2026-05-17T01:43:19.913Z",
     "published": "2026-05-15T23:17Z"
+  },
+  {
+    "url": "https://blog.avas.space/gym-stats1/",
+    "title": "beginner gym stuff",
+    "author": "https://blog.avas.space",
+    "toasts": 9,
+    "first_seen": "2026-05-17T01:43:19.913Z",
+    "last_updated": "2026-05-17T01:43:19.913Z",
+    "published": "2026-05-15T18:05Z"
   }
 ]
