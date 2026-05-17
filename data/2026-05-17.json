@@ -30,18 +30,18 @@
     "url": "https://bez-lightyear.bearblog.dev/eurotrashed/",
     "title": "Eurotrashed",
     "author": "https://bez-lightyear.bearblog.dev",
-    "toasts": 42,
+    "toasts": 48,
     "first_seen": "2026-05-17T11:29:58.167Z",
-    "last_updated": "2026-05-17T21:23:05.610Z",
+    "last_updated": "2026-05-17T23:23:48.842Z",
     "published": "2026-05-17T10:15Z"
   },
   {
     "url": "https://mattiverse.online/replaced-social-media/",
     "title": "replaced social media with a different form",
     "author": "https://mattiverse.online",
-    "toasts": 18,
+    "toasts": 28,
     "first_seen": "2026-05-17T11:29:58.167Z",
-    "last_updated": "2026-05-17T20:21:44.185Z",
+    "last_updated": "2026-05-17T23:23:48.842Z",
     "published": "2026-05-17T09:25Z"
   },
   {
@@ -57,18 +57,18 @@
     "url": "https://chas.quest/beginning-the-big-o/",
     "title": "Beginning the Big O",
     "author": "https://chas.quest",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-17T15:27:29.412Z",
-    "last_updated": "2026-05-17T19:30:27.746Z",
+    "last_updated": "2026-05-17T23:23:48.842Z",
     "published": "2026-05-17T13:26Z"
   },
   {
     "url": "https://blog.avas.space/uber-data-leak/",
     "title": "i suspect there is a new uber data leak",
     "author": "https://blog.avas.space",
-    "toasts": 12,
+    "toasts": 22,
     "first_seen": "2026-05-17T17:26:14.071Z",
-    "last_updated": "2026-05-17T22:22:36.287Z",
+    "last_updated": "2026-05-17T23:23:48.842Z",
     "published": "2026-05-17T13:06Z"
   },
   {
@@ -84,9 +84,18 @@
     "url": "https://livingkindfully.bearblog.dev/adults-have-lost-the-ability-to-smile-why/",
     "title": "Adults Have Lost the Ability to Smile, Why?",
     "author": "https://livingkindfully.bearblog.dev",
-    "toasts": 9,
+    "toasts": 23,
     "first_seen": "2026-05-17T20:21:44.185Z",
-    "last_updated": "2026-05-17T22:22:36.287Z",
+    "last_updated": "2026-05-17T23:23:48.842Z",
     "published": "2026-05-17T15:31Z"
+  },
+  {
+    "url": "https://akashbhat.com/the-ten-levels-of-smartphone-de-addiction/",
+    "title": "The ten levels of smartphone de-addiction",
+    "author": "https://akashbhat.com",
+    "toasts": 8,
+    "first_seen": "2026-05-17T23:23:48.842Z",
+    "last_updated": "2026-05-17T23:23:48.842Z",
+    "published": "2026-05-17T18:08Z"
   }
 ]
