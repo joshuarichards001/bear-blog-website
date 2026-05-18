@@ -21,27 +21,27 @@
     "url": "https://zine.help/zine-internet-tv-guide-9/",
     "title": "(zine) Internet TV Guide #9",
     "author": "https://zine.help",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-17T09:38:51.096Z",
-    "last_updated": "2026-05-17T11:29:58.167Z",
+    "last_updated": "2026-05-18T03:17:52.149Z",
     "published": "2026-05-17T05:42Z"
   },
   {
     "url": "https://bez-lightyear.bearblog.dev/eurotrashed/",
     "title": "Eurotrashed",
     "author": "https://bez-lightyear.bearblog.dev",
-    "toasts": 50,
+    "toasts": 56,
     "first_seen": "2026-05-17T11:29:58.167Z",
-    "last_updated": "2026-05-18T01:00:44.975Z",
+    "last_updated": "2026-05-18T03:17:52.149Z",
     "published": "2026-05-17T10:15Z"
   },
   {
     "url": "https://mattiverse.online/replaced-social-media/",
     "title": "replaced social media with a different form",
     "author": "https://mattiverse.online",
-    "toasts": 35,
+    "toasts": 47,
     "first_seen": "2026-05-17T11:29:58.167Z",
-    "last_updated": "2026-05-18T01:00:44.975Z",
+    "last_updated": "2026-05-18T03:17:52.149Z",
     "published": "2026-05-17T09:25Z"
   },
   {
@@ -57,18 +57,18 @@
     "url": "https://chas.quest/beginning-the-big-o/",
     "title": "Beginning the Big O",
     "author": "https://chas.quest",
-    "toasts": 10,
+    "toasts": 15,
     "first_seen": "2026-05-17T15:27:29.412Z",
-    "last_updated": "2026-05-17T23:23:48.842Z",
+    "last_updated": "2026-05-18T03:17:52.149Z",
     "published": "2026-05-17T13:26Z"
   },
   {
     "url": "https://blog.avas.space/uber-data-leak/",
     "title": "i suspect there is a new uber data leak",
     "author": "https://blog.avas.space",
-    "toasts": 26,
+    "toasts": 34,
     "first_seen": "2026-05-17T17:26:14.071Z",
-    "last_updated": "2026-05-18T01:00:44.975Z",
+    "last_updated": "2026-05-18T03:17:52.149Z",
     "published": "2026-05-17T13:06Z"
   },
   {
@@ -84,18 +84,36 @@
     "url": "https://livingkindfully.bearblog.dev/adults-have-lost-the-ability-to-smile-why/",
     "title": "Adults Have Lost the Ability to Smile, Why?",
     "author": "https://livingkindfully.bearblog.dev",
-    "toasts": 30,
+    "toasts": 46,
     "first_seen": "2026-05-17T20:21:44.185Z",
-    "last_updated": "2026-05-18T01:00:44.975Z",
+    "last_updated": "2026-05-18T03:17:52.149Z",
     "published": "2026-05-17T15:31Z"
   },
   {
     "url": "https://akashbhat.com/the-ten-levels-of-smartphone-de-addiction/",
     "title": "The ten levels of smartphone de-addiction",
     "author": "https://akashbhat.com",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-05-17T23:23:48.842Z",
-    "last_updated": "2026-05-17T23:23:48.842Z",
+    "last_updated": "2026-05-18T03:17:52.149Z",
     "published": "2026-05-17T18:08Z"
+  },
+  {
+    "url": "https://sparenotes.online/diaryland-gave-me-closure-after-20-years/",
+    "title": "Diaryland Gave me Closure After 20 years",
+    "author": "https://sparenotes.online",
+    "toasts": 31,
+    "first_seen": "2026-05-18T03:17:52.149Z",
+    "last_updated": "2026-05-18T03:17:52.149Z",
+    "published": "2026-05-17T20:30Z"
+  },
+  {
+    "url": "https://valerakushnir.com/moving-from-github-to-codeberg/",
+    "title": "Moving from Github to Codeberg",
+    "author": "https://valerakushnir.com",
+    "toasts": 8,
+    "first_seen": "2026-05-18T03:17:52.149Z",
+    "last_updated": "2026-05-18T03:17:52.149Z",
+    "published": "2026-05-17T12:45Z"
   }
 ]
