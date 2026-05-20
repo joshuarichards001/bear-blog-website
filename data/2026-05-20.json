@@ -3,9 +3,9 @@
     "url": "https://blog.lauramichet.com/visited-meteor-crater/",
     "title": "Visited Meteor Crater",
     "author": "https://blog.lauramichet.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-20T09:16:48.815Z",
-    "last_updated": "2026-05-20T09:16:48.815Z",
+    "last_updated": "2026-05-20T18:55:35.542Z",
     "published": "2026-05-20T04:25Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://jamesbaker.uk/i-have-over-200-email-addresses/",
     "title": "📧 I have over 200 email addresses",
     "author": "https://jamesbaker.uk",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-20T15:10:55.838Z",
-    "last_updated": "2026-05-20T17:11:42.057Z",
+    "last_updated": "2026-05-20T18:55:35.542Z",
     "published": "2026-05-20T11:25Z"
   },
   {
@@ -84,18 +84,36 @@
     "url": "https://technically-good.ca/blog/alternatives-pt-ii-social-networking/",
     "title": "Alternatives Pt. II - Social Networking",
     "author": "https://technically-good.ca",
-    "toasts": 9,
+    "toasts": 14,
     "first_seen": "2026-05-20T17:11:42.057Z",
-    "last_updated": "2026-05-20T17:11:42.057Z",
+    "last_updated": "2026-05-20T18:55:35.542Z",
     "published": "2026-05-20T13:45Z"
   },
   {
     "url": "https://www.zweisechsneun.de/veganismus-kapitalismus/",
     "title": "Eine vegane Welt in diesem System",
     "author": "https://www.zweisechsneun.de",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-05-20T17:11:42.057Z",
-    "last_updated": "2026-05-20T17:11:42.057Z",
+    "last_updated": "2026-05-20T18:55:35.542Z",
     "published": "2026-05-20T15:19Z"
+  },
+  {
+    "url": "https://hiddendragon.bearblog.dev/birdos/",
+    "title": "BirdOS is a Gamechanger",
+    "author": "https://hiddendragon.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-20T18:55:35.542Z",
+    "last_updated": "2026-05-20T18:55:35.542Z",
+    "published": "2026-05-20T17:02Z"
+  },
+  {
+    "url": "https://gary.onl/facebook-is-terrifyingly-bad-with-privacy/",
+    "title": "Facebook is terrifyingly bad with privacy",
+    "author": "https://gary.onl",
+    "toasts": 7,
+    "first_seen": "2026-05-20T18:55:35.542Z",
+    "last_updated": "2026-05-20T18:55:35.542Z",
+    "published": "2026-05-20T16:56Z"
   }
 ]
