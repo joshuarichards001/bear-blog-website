@@ -39,18 +39,18 @@
     "url": "https://blog.absurdpirate.com/nobody-cares-write-anyway/",
     "title": "Nobody Cares, Write Anyway",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 38,
+    "toasts": 44,
     "first_seen": "2026-05-19T18:48:35.239Z",
-    "last_updated": "2026-05-20T05:28:18.200Z",
+    "last_updated": "2026-05-20T07:24:19.730Z",
     "published": "2026-05-19T14:11Z"
   },
   {
     "url": "https://mikeshuey.com/blogging-without-a-niche/",
     "title": "Why blogging without a niche feels like freedom",
     "author": "https://mikeshuey.com",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-05-19T21:36:21.507Z",
-    "last_updated": "2026-05-20T01:02:54.304Z",
+    "last_updated": "2026-05-20T07:24:19.730Z",
     "published": "2026-05-19T15:21Z"
   },
   {
@@ -70,5 +70,23 @@
     "first_seen": "2026-05-20T01:02:54.304Z",
     "last_updated": "2026-05-20T01:02:54.304Z",
     "published": "2026-05-19T15:55Z"
+  },
+  {
+    "url": "https://gourd-dwarf.bearblog.dev/cuckman-and-the-sex-patrol/",
+    "title": "Cuckman and the Sex Patrol",
+    "author": "https://gourd-dwarf.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-20T07:24:19.730Z",
+    "last_updated": "2026-05-20T07:24:19.730Z",
+    "published": "2026-05-19T23:51Z"
+  },
+  {
+    "url": "https://goyavoyage.bearblog.dev/what-do-you-mean-dora-the-explorer-originally-teaches-spanish/",
+    "title": "What do you mean Dora the Explorer originally teaches Spanish?",
+    "author": "https://goyavoyage.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-20T07:24:19.730Z",
+    "last_updated": "2026-05-20T07:24:19.730Z",
+    "published": "2026-05-19T21:34Z"
   }
 ]
