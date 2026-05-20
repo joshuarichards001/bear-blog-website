@@ -12,9 +12,9 @@
     "url": "https://blog.lauramichet.com/a-trash-can-i-found-on-the-side-of-the-highway/",
     "title": "A trash can I found on the side of the highway",
     "author": "https://blog.lauramichet.com",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-05-19T09:19:40.822Z",
-    "last_updated": "2026-05-20T03:16:27.389Z",
+    "last_updated": "2026-05-20T09:16:48.815Z",
     "published": "2026-05-19T04:08Z"
   },
   {
@@ -30,45 +30,45 @@
     "url": "https://trueblue.bearblog.dev/smile/",
     "title": "smile !!!",
     "author": "https://trueblue.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-19T17:05:03.830Z",
-    "last_updated": "2026-05-20T01:02:54.304Z",
+    "last_updated": "2026-05-20T09:16:48.815Z",
     "published": "2026-05-19T08:35Z"
   },
   {
     "url": "https://blog.absurdpirate.com/nobody-cares-write-anyway/",
     "title": "Nobody Cares, Write Anyway",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 44,
+    "toasts": 47,
     "first_seen": "2026-05-19T18:48:35.239Z",
-    "last_updated": "2026-05-20T07:24:19.730Z",
+    "last_updated": "2026-05-20T09:16:48.815Z",
     "published": "2026-05-19T14:11Z"
   },
   {
     "url": "https://mikeshuey.com/blogging-without-a-niche/",
     "title": "Why blogging without a niche feels like freedom",
     "author": "https://mikeshuey.com",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-05-19T21:36:21.507Z",
-    "last_updated": "2026-05-20T07:24:19.730Z",
+    "last_updated": "2026-05-20T09:16:48.815Z",
     "published": "2026-05-19T15:21Z"
   },
   {
     "url": "https://thecynicalnerd.bearblog.dev/nothing-new-under-the-algorithm-sycophancy-toxic-positivity-the-industry-of-yes/",
     "title": "Nothing New Under the Algorithm-Sycophancy, Toxic Positivity & the Industry of Yes",
     "author": "https://thecynicalnerd.bearblog.dev",
-    "toasts": 9,
+    "toasts": 12,
     "first_seen": "2026-05-20T01:02:54.304Z",
-    "last_updated": "2026-05-20T05:28:18.200Z",
+    "last_updated": "2026-05-20T09:16:48.815Z",
     "published": "2026-05-19T19:20Z"
   },
   {
     "url": "https://robertbirming.com/dont-let-old-man-in/",
     "title": "Don't let the old man in",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-05-20T01:02:54.304Z",
-    "last_updated": "2026-05-20T01:02:54.304Z",
+    "last_updated": "2026-05-20T09:16:48.815Z",
     "published": "2026-05-19T15:55Z"
   },
   {
@@ -87,6 +87,24 @@
     "toasts": 7,
     "first_seen": "2026-05-20T07:24:19.730Z",
     "last_updated": "2026-05-20T07:24:19.730Z",
+    "published": "2026-05-19T21:34Z"
+  },
+  {
+    "url": "https://sebastianmalloy.bearblog.dev/re-if-you-like-someones-blog-you-should-probably-tell-them/",
+    "title": "Re: If You Like Someone’s Blog, You Should Probably Tell Them",
+    "author": "https://sebastianmalloy.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-05-20T09:16:48.815Z",
+    "last_updated": "2026-05-20T09:16:48.815Z",
+    "published": "2026-05-19T15:28Z"
+  },
+  {
+    "url": "https://sameoldstory.co/practicing-not-fighting-on-the-internet/",
+    "title": "Practicing not fighting on the Internet.",
+    "author": "https://sameoldstory.co",
+    "toasts": 7,
+    "first_seen": "2026-05-20T09:16:48.815Z",
+    "last_updated": "2026-05-20T09:16:48.815Z",
     "published": "2026-05-19T21:34Z"
   }
 ]
