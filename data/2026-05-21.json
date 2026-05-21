@@ -3,18 +3,18 @@
     "url": "https://diels-daydreams.bearblog.dev/i-need-to-compliment-you-tell-me-how/",
     "title": "I NEED TO COMPLIMENT YOU!! TELL ME HOW!!!",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 36,
+    "toasts": 40,
     "first_seen": "2026-05-21T05:31:59.198Z",
-    "last_updated": "2026-05-21T17:46:43.663Z",
+    "last_updated": "2026-05-21T18:45:09.487Z",
     "published": "2026-05-21T00:30Z"
   },
   {
     "url": "https://tism.help/lil-figgy/",
     "title": "no filming pls",
     "author": "https://tism.help",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-05-21T07:28:07.407Z",
-    "last_updated": "2026-05-21T17:00:04.168Z",
+    "last_updated": "2026-05-21T18:45:09.487Z",
     "published": "2026-05-21T03:13Z"
   },
   {
@@ -48,9 +48,9 @@
     "url": "https://blog.lauramichet.com/some-more-road-trip-pictures/",
     "title": "Some more road trip pictures",
     "author": "https://blog.lauramichet.com",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-05-21T13:18:23.315Z",
-    "last_updated": "2026-05-21T13:18:23.315Z",
+    "last_updated": "2026-05-21T18:45:09.487Z",
     "published": "2026-05-21T02:29Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://savvynormie.com/feeling-like-its-not-enough-do-it-anyway/",
     "title": "Feeling Like It's Not Enough? Do It Anyway",
     "author": "https://savvynormie.com",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-21T17:00:04.168Z",
-    "last_updated": "2026-05-21T17:46:43.663Z",
+    "last_updated": "2026-05-21T18:45:09.487Z",
     "published": "2026-05-21T12:52Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://robertbirming.com/shifting-focus/",
     "title": "Shifting focus",
     "author": "https://robertbirming.com",
-    "toasts": 7,
+    "toasts": 9,
     "first_seen": "2026-05-21T17:46:43.663Z",
-    "last_updated": "2026-05-21T17:46:43.663Z",
+    "last_updated": "2026-05-21T18:45:09.487Z",
     "published": "2026-05-21T15:55Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-05-21T17:46:43.663Z",
     "last_updated": "2026-05-21T17:46:43.663Z",
     "published": "2026-05-21T07:05Z"
+  },
+  {
+    "url": "https://barthalion.blog/flathub-internals-cdn-and-deltas/",
+    "title": "Why are Flathub downloads so slow sometimes?",
+    "author": "https://barthalion.blog",
+    "toasts": 7,
+    "first_seen": "2026-05-21T18:45:09.487Z",
+    "last_updated": "2026-05-21T18:45:09.487Z",
+    "published": "2026-05-21T13:11Z"
   }
 ]
