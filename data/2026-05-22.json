@@ -12,9 +12,9 @@
     "url": "https://danielle.bearblog.dev/the-most-pointless-use-of-generative-ai-ive-seen-so-far/",
     "title": "The most pointless use of generative AI I've seen so far",
     "author": "https://danielle.bearblog.dev",
-    "toasts": 66,
+    "toasts": 67,
     "first_seen": "2026-05-22T03:17:05.509Z",
-    "last_updated": "2026-05-22T19:36:41.267Z",
+    "last_updated": "2026-05-22T20:37:50.760Z",
     "published": "2026-05-22T00:04Z"
   },
   {
@@ -48,36 +48,36 @@
     "url": "https://user8.bearblog.dev/this-blog-is-going-to-implode/",
     "title": "This blog is going to implode",
     "author": "https://user8.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-22T11:07:26.712Z",
-    "last_updated": "2026-05-22T18:43:56.739Z",
+    "last_updated": "2026-05-22T20:37:50.760Z",
     "published": "2026-05-22T07:28Z"
   },
   {
     "url": "https://superlemon.bearblog.dev/the-majority-of-people-is-pro-ai/",
     "title": "The majority of people seems to be pro AI",
     "author": "https://superlemon.bearblog.dev",
-    "toasts": 57,
+    "toasts": 61,
     "first_seen": "2026-05-22T13:54:17.059Z",
-    "last_updated": "2026-05-22T19:36:41.267Z",
+    "last_updated": "2026-05-22T20:37:50.760Z",
     "published": "2026-05-22T13:39Z"
   },
   {
     "url": "https://dabi.bearblog.dev/cool-facts-about-clouds-for-fun/",
     "title": "Cool facts about clouds for fun",
     "author": "https://dabi.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-22T13:54:17.059Z",
-    "last_updated": "2026-05-22T15:08:58.661Z",
+    "last_updated": "2026-05-22T20:37:50.760Z",
     "published": "2026-05-22T03:58Z"
   },
   {
     "url": "https://mintcitylights.com/2026/05/22/plex-price-hike/",
     "title": "plex's lifetime price hike",
     "author": "https://mintcitylights.com",
-    "toasts": 28,
+    "toasts": 29,
     "first_seen": "2026-05-22T15:08:58.661Z",
-    "last_updated": "2026-05-22T19:36:41.267Z",
+    "last_updated": "2026-05-22T20:37:50.760Z",
     "published": "2026-05-22T13:44Z"
   },
   {
@@ -129,18 +129,27 @@
     "url": "https://indecisiorama.bearblog.dev/bursting-my-ai-bubble/",
     "title": "Bursting my AI bubble",
     "author": "https://indecisiorama.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-05-22T19:36:41.267Z",
-    "last_updated": "2026-05-22T19:36:41.267Z",
+    "last_updated": "2026-05-22T20:37:50.760Z",
     "published": "2026-05-22T17:05Z"
   },
   {
     "url": "https://rnotte.art/to-make-art-or-buy-it/",
     "title": "to make art, or buy it?",
     "author": "https://rnotte.art",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-05-22T19:36:41.267Z",
-    "last_updated": "2026-05-22T19:36:41.267Z",
+    "last_updated": "2026-05-22T20:37:50.760Z",
     "published": "2026-05-22T17:43Z"
+  },
+  {
+    "url": "https://bengunn.bearblog.dev/most-people-do-not-like-ai/",
+    "title": "Most People Do Not Like AI",
+    "author": "https://bengunn.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-22T20:37:50.760Z",
+    "last_updated": "2026-05-22T20:37:50.760Z",
+    "published": "2026-05-22T18:13Z"
   }
 ]
