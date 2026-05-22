@@ -3,27 +3,27 @@
     "url": "https://mrmarket.bearblog.dev/it-is-time-to-build-a-new-internet/",
     "title": "It is time to build a new internet",
     "author": "https://mrmarket.bearblog.dev",
-    "toasts": 54,
+    "toasts": 57,
     "first_seen": "2026-05-22T03:17:05.509Z",
-    "last_updated": "2026-05-22T09:14:58.915Z",
+    "last_updated": "2026-05-22T11:07:26.712Z",
     "published": "2026-05-22T02:04Z"
   },
   {
     "url": "https://danielle.bearblog.dev/the-most-pointless-use-of-generative-ai-ive-seen-so-far/",
     "title": "The most pointless use of generative AI I've seen so far",
     "author": "https://danielle.bearblog.dev",
-    "toasts": 40,
+    "toasts": 46,
     "first_seen": "2026-05-22T03:17:05.509Z",
-    "last_updated": "2026-05-22T09:14:58.915Z",
+    "last_updated": "2026-05-22T11:07:26.712Z",
     "published": "2026-05-22T00:04Z"
   },
   {
     "url": "https://user8.bearblog.dev/logging-off/",
     "title": "Logging off",
     "author": "https://user8.bearblog.dev",
-    "toasts": 79,
+    "toasts": 86,
     "first_seen": "2026-05-22T05:28:22.543Z",
-    "last_updated": "2026-05-22T09:14:58.915Z",
+    "last_updated": "2026-05-22T11:07:26.712Z",
     "published": "2026-05-22T03:00Z"
   },
   {
@@ -43,5 +43,14 @@
     "first_seen": "2026-05-22T05:28:22.543Z",
     "last_updated": "2026-05-22T07:24:25.149Z",
     "published": "2026-05-22T00:01Z"
+  },
+  {
+    "url": "https://user8.bearblog.dev/this-blog-is-going-to-implode/",
+    "title": "This blog is going to implode",
+    "author": "https://user8.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-22T11:07:26.712Z",
+    "last_updated": "2026-05-22T11:07:26.712Z",
+    "published": "2026-05-22T07:28Z"
   }
 ]
