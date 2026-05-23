@@ -3,9 +3,9 @@
     "url": "https://moodywarlock.net/a-group-of-ghouls-and-ai-exhaustion/",
     "title": "A group of ghouls and ai exhaustion",
     "author": "https://moodywarlock.net",
-    "toasts": 32,
+    "toasts": 37,
     "first_seen": "2026-05-23T08:48:16.912Z",
-    "last_updated": "2026-05-23T12:29:24.007Z",
+    "last_updated": "2026-05-23T13:35:41.916Z",
     "published": "2026-05-23T07:03Z"
   },
   {
@@ -21,18 +21,45 @@
     "url": "https://skryblans.com/vibe-blogging/",
     "title": "vibe blogging",
     "author": "https://skryblans.com",
-    "toasts": 17,
+    "toasts": 24,
     "first_seen": "2026-05-23T11:30:06.590Z",
-    "last_updated": "2026-05-23T12:29:24.007Z",
+    "last_updated": "2026-05-23T13:35:41.916Z",
     "published": "2026-05-23T08:29Z"
   },
   {
     "url": "https://stellardecay.com/first-cattiversary/",
     "title": "First Cattiversary!",
     "author": "https://stellardecay.com",
-    "toasts": 8,
+    "toasts": 11,
     "first_seen": "2026-05-23T11:30:06.590Z",
-    "last_updated": "2026-05-23T11:30:06.590Z",
+    "last_updated": "2026-05-23T13:35:41.916Z",
     "published": "2026-05-23T10:09Z"
+  },
+  {
+    "url": "https://monolog.xyz/popular-bear-blog-posts/",
+    "title": "popular posts on bear blog",
+    "author": "https://monolog.xyz",
+    "toasts": 11,
+    "first_seen": "2026-05-23T13:35:41.916Z",
+    "last_updated": "2026-05-23T13:35:41.916Z",
+    "published": "2026-05-23T11:24Z"
+  },
+  {
+    "url": "https://blog.avas.space/brussels/",
+    "title": "my experience in brussels",
+    "author": "https://blog.avas.space",
+    "toasts": 9,
+    "first_seen": "2026-05-23T13:35:41.916Z",
+    "last_updated": "2026-05-23T13:35:41.916Z",
+    "published": "2026-05-23T10:33Z"
+  },
+  {
+    "url": "https://robertbirming.com/prettier-palettes-previews/",
+    "title": "Prettier palettes with previews",
+    "author": "https://robertbirming.com",
+    "toasts": 8,
+    "first_seen": "2026-05-23T13:35:41.916Z",
+    "last_updated": "2026-05-23T13:35:41.916Z",
+    "published": "2026-05-23T12:34Z"
   }
 ]
