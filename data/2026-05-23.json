@@ -12,18 +12,18 @@
     "url": "https://pinewind.bearblog.dev/a-silly-thing-that-i-do/",
     "title": "a silly thing that I do",
     "author": "https://pinewind.bearblog.dev",
-    "toasts": 48,
+    "toasts": 49,
     "first_seen": "2026-05-23T08:48:16.912Z",
-    "last_updated": "2026-05-24T18:29:05.871Z",
+    "last_updated": "2026-05-24T21:23:53.937Z",
     "published": "2026-05-23T05:00Z"
   },
   {
     "url": "https://skryblans.com/vibe-blogging/",
     "title": "vibe blogging",
     "author": "https://skryblans.com",
-    "toasts": 55,
+    "toasts": 56,
     "first_seen": "2026-05-23T11:30:06.590Z",
-    "last_updated": "2026-05-24T16:26:45.799Z",
+    "last_updated": "2026-05-24T21:23:53.937Z",
     "published": "2026-05-23T08:29Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://www.natemeyvis.com/you-really-dont-have-to-use-substack/",
     "title": "You really don't have to use Substack",
     "author": "https://www.natemeyvis.com",
-    "toasts": 75,
+    "toasts": 76,
     "first_seen": "2026-05-23T14:36:53.923Z",
-    "last_updated": "2026-05-24T20:25:35.250Z",
+    "last_updated": "2026-05-24T21:23:53.937Z",
     "published": "2026-05-23T12:55Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://robynbirdblog.bearblog.dev/you-dont-have-to-film-yourself-and-share-what-you-hate-on-social-platform/",
     "title": "You don't have to film yourself and share what you hate on social platform",
     "author": "https://robynbirdblog.bearblog.dev",
-    "toasts": 67,
+    "toasts": 69,
     "first_seen": "2026-05-23T14:36:53.923Z",
-    "last_updated": "2026-05-24T19:33:37.839Z",
+    "last_updated": "2026-05-24T21:23:53.937Z",
     "published": "2026-05-23T10:38Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://technically-good.ca/newsletter/009-2026-05-23/",
     "title": "💌 Newsletter #009 - Social Media Alternatives (Good!), Bill C-22 (Not So Good!), and The End of Google Search as We Know It",
     "author": "https://technically-good.ca",
-    "toasts": 71,
+    "toasts": 72,
     "first_seen": "2026-05-23T15:29:04.475Z",
-    "last_updated": "2026-05-24T13:35:59.733Z",
+    "last_updated": "2026-05-24T21:23:53.937Z",
     "published": "2026-05-23T14:12Z"
   },
   {
@@ -219,18 +219,18 @@
     "url": "https://khoaly.xyz/be-the-first-toast/",
     "title": "Be the first toast",
     "author": "https://khoaly.xyz",
-    "toasts": 70,
+    "toasts": 72,
     "first_seen": "2026-05-23T23:23:34.686Z",
-    "last_updated": "2026-05-24T20:25:35.250Z",
+    "last_updated": "2026-05-24T21:23:53.937Z",
     "published": "2026-05-23T21:22Z"
   },
   {
     "url": "https://bx.bearblog.dev/talk-to-your-friends/",
     "title": "talk to your friends",
     "author": "https://bx.bearblog.dev",
-    "toasts": 21,
+    "toasts": 22,
     "first_seen": "2026-05-24T01:02:17.785Z",
-    "last_updated": "2026-05-24T19:33:37.839Z",
+    "last_updated": "2026-05-24T21:23:53.937Z",
     "published": "2026-05-23T22:30Z"
   },
   {
@@ -250,5 +250,14 @@
     "first_seen": "2026-05-24T03:16:34.628Z",
     "last_updated": "2026-05-24T03:16:34.628Z",
     "published": "2026-05-23T16:01Z"
+  },
+  {
+    "url": "https://nostalgia.bearblog.dev/chinese-youth/",
+    "title": "全球年轻华人相对长辈普遍失权",
+    "author": "https://nostalgia.bearblog.dev",
+    "toasts": 18,
+    "first_seen": "2026-05-24T21:23:53.937Z",
+    "last_updated": "2026-05-24T21:23:53.937Z",
+    "published": "2026-05-23T11:23Z"
   }
 ]
