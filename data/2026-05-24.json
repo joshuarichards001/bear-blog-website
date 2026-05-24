@@ -30,9 +30,9 @@
     "url": "https://lizziesthoughts.bearblog.dev/its-really-interesting-to-listen-to-peoples-niche-interests/",
     "title": "it's really interesting to listen to people's niche interests",
     "author": "https://lizziesthoughts.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-24T16:26:45.799Z",
-    "last_updated": "2026-05-24T16:26:45.799Z",
+    "last_updated": "2026-05-24T19:33:37.839Z",
     "published": "2026-05-24T14:48Z"
   },
   {
@@ -43,5 +43,23 @@
     "first_seen": "2026-05-24T17:25:37.280Z",
     "last_updated": "2026-05-24T18:29:05.871Z",
     "published": "2026-05-24T14:53Z"
+  },
+  {
+    "url": "https://arnau.bearblog.dev/build-a-library/",
+    "title": "build a library",
+    "author": "https://arnau.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-05-24T19:33:37.839Z",
+    "last_updated": "2026-05-24T19:33:37.839Z",
+    "published": "2026-05-24T18:56Z"
+  },
+  {
+    "url": "https://robertbirming.com/bear-gallery-upload-plugin/",
+    "title": "Bear gallery upload plugin",
+    "author": "https://robertbirming.com",
+    "toasts": 8,
+    "first_seen": "2026-05-24T19:33:37.839Z",
+    "last_updated": "2026-05-24T19:33:37.839Z",
+    "published": "2026-05-24T16:36Z"
   }
 ]
