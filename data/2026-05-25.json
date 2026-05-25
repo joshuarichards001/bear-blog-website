@@ -3,9 +3,9 @@
     "url": "https://xendo.bearblog.dev/stop-doing-easy-things/",
     "title": "Stop doing easy things",
     "author": "https://xendo.bearblog.dev",
-    "toasts": 18,
+    "toasts": 19,
     "first_seen": "2026-05-25T09:29:30.605Z",
-    "last_updated": "2026-05-25T17:36:40.118Z",
+    "last_updated": "2026-05-25T22:27:52.948Z",
     "published": "2026-05-25T07:41Z"
   },
   {
@@ -21,27 +21,36 @@
     "url": "https://valentine.bearblog.dev/two-years-of-blogging/",
     "title": "two years of blogging",
     "author": "https://valentine.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-05-25T16:48:33.372Z",
-    "last_updated": "2026-05-25T19:35:15.084Z",
+    "last_updated": "2026-05-25T22:27:52.948Z",
     "published": "2026-05-25T14:56Z"
   },
   {
     "url": "https://nostalgia.bearblog.dev/quote-unquote-autistic/",
     "title": "four adults discussing an \"autistic\" daughter in a restaurant",
     "author": "https://nostalgia.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-25T18:41:03.541Z",
-    "last_updated": "2026-05-25T20:35:31.663Z",
+    "last_updated": "2026-05-25T22:27:52.948Z",
     "published": "2026-05-25T04:49Z"
   },
   {
     "url": "https://apolloreeves.bearblog.dev/employee-stockholm-syndrome/",
     "title": "Employee Stockholm Syndrome",
     "author": "https://apolloreeves.bearblog.dev",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-05-25T19:35:15.084Z",
-    "last_updated": "2026-05-25T19:35:15.084Z",
+    "last_updated": "2026-05-25T22:27:52.948Z",
     "published": "2026-05-25T16:13Z"
+  },
+  {
+    "url": "https://lightlogged.blog/730-family-time/",
+    "title": "7/30 — Family time",
+    "author": "https://lightlogged.blog",
+    "toasts": 8,
+    "first_seen": "2026-05-25T22:27:52.948Z",
+    "last_updated": "2026-05-25T22:27:52.948Z",
+    "published": "2026-05-25T17:17Z"
   }
 ]
