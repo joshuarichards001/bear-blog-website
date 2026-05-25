@@ -12,9 +12,9 @@
     "url": "https://blog.avas.space/eu-washing/",
     "title": "beware of EU-washing",
     "author": "https://blog.avas.space",
-    "toasts": 27,
+    "toasts": 30,
     "first_seen": "2026-05-24T10:38:04.879Z",
-    "last_updated": "2026-05-25T07:45:55.587Z",
+    "last_updated": "2026-05-25T09:29:30.605Z",
     "published": "2026-05-24T08:34Z"
   },
   {
@@ -48,18 +48,18 @@
     "url": "https://arnau.bearblog.dev/build-a-library/",
     "title": "build a library",
     "author": "https://arnau.bearblog.dev",
-    "toasts": 18,
+    "toasts": 21,
     "first_seen": "2026-05-24T19:33:37.839Z",
-    "last_updated": "2026-05-25T07:45:55.587Z",
+    "last_updated": "2026-05-25T09:29:30.605Z",
     "published": "2026-05-24T18:56Z"
   },
   {
     "url": "https://robertbirming.com/bear-gallery-upload-plugin/",
     "title": "Bear gallery upload plugin",
     "author": "https://robertbirming.com",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-05-24T19:33:37.839Z",
-    "last_updated": "2026-05-25T07:45:55.587Z",
+    "last_updated": "2026-05-25T09:29:30.605Z",
     "published": "2026-05-24T16:36Z"
   },
   {
@@ -75,18 +75,18 @@
     "url": "https://fragmentadamente.bearblog.dev/uma-prova-para-a-vida/",
     "title": "Uma prova para a vida",
     "author": "https://fragmentadamente.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-24T21:23:53.937Z",
-    "last_updated": "2026-05-24T21:23:53.937Z",
+    "last_updated": "2026-05-25T09:29:30.605Z",
     "published": "2026-05-24T17:15Z"
   },
   {
     "url": "https://receipts.bearblog.dev/forget-the-world-for-a-moment/",
     "title": "forget the world for a moment",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-25T01:03:36.970Z",
-    "last_updated": "2026-05-25T05:39:30.732Z",
+    "last_updated": "2026-05-25T09:29:30.605Z",
     "published": "2026-05-24T21:43Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-05-25T03:18:34.398Z",
     "last_updated": "2026-05-25T07:45:55.587Z",
     "published": "2026-05-24T20:41Z"
+  },
+  {
+    "url": "https://lightlogged.bearblog.dev/630-silly-portraits/",
+    "title": "6/30 — Silly portraits",
+    "author": "https://lightlogged.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-05-25T09:29:30.605Z",
+    "last_updated": "2026-05-25T09:29:30.605Z",
+    "published": "2026-05-24T17:17Z"
   }
 ]
