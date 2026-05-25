@@ -21,9 +21,9 @@
     "url": "https://valentine.bearblog.dev/two-years-of-blogging/",
     "title": "two years of blogging",
     "author": "https://valentine.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-25T16:48:33.372Z",
-    "last_updated": "2026-05-25T18:41:03.541Z",
+    "last_updated": "2026-05-25T19:35:15.084Z",
     "published": "2026-05-25T14:56Z"
   },
   {
@@ -34,5 +34,14 @@
     "first_seen": "2026-05-25T18:41:03.541Z",
     "last_updated": "2026-05-25T18:41:03.541Z",
     "published": "2026-05-25T04:49Z"
+  },
+  {
+    "url": "https://apolloreeves.bearblog.dev/employee-stockholm-syndrome/",
+    "title": "Employee Stockholm Syndrome",
+    "author": "https://apolloreeves.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-25T19:35:15.084Z",
+    "last_updated": "2026-05-25T19:35:15.084Z",
+    "published": "2026-05-25T16:13Z"
   }
 ]
