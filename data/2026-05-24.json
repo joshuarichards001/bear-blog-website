@@ -48,18 +48,18 @@
     "url": "https://arnau.bearblog.dev/build-a-library/",
     "title": "build a library",
     "author": "https://arnau.bearblog.dev",
-    "toasts": 23,
+    "toasts": 25,
     "first_seen": "2026-05-24T19:33:37.839Z",
-    "last_updated": "2026-05-25T16:48:33.372Z",
+    "last_updated": "2026-05-25T17:36:40.118Z",
     "published": "2026-05-24T18:56Z"
   },
   {
     "url": "https://robertbirming.com/bear-gallery-upload-plugin/",
     "title": "Bear gallery upload plugin",
     "author": "https://robertbirming.com",
-    "toasts": 17,
+    "toasts": 19,
     "first_seen": "2026-05-24T19:33:37.839Z",
-    "last_updated": "2026-05-25T16:48:33.372Z",
+    "last_updated": "2026-05-25T17:36:40.118Z",
     "published": "2026-05-24T16:36Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://receipts.bearblog.dev/forget-the-world-for-a-moment/",
     "title": "forget the world for a moment",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-05-25T01:03:36.970Z",
-    "last_updated": "2026-05-25T11:28:19.211Z",
+    "last_updated": "2026-05-25T17:36:40.118Z",
     "published": "2026-05-24T21:43Z"
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://lightlogged.blog/630-silly-portraits/",
     "title": "6/30 — Silly portraits",
     "author": "https://lightlogged.blog",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-25T13:19:15.785Z",
-    "last_updated": "2026-05-25T15:09:27.766Z",
+    "last_updated": "2026-05-25T17:36:40.118Z",
     "published": "2026-05-24T17:17Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-05-25T15:09:27.766Z",
     "last_updated": "2026-05-25T15:09:27.766Z",
     "published": "2026-05-24T21:42Z"
+  },
+  {
+    "url": "https://bahadir.digital/claude-el-kitabi/",
+    "title": "Claude El Kitabı",
+    "author": "https://bahadir.digital",
+    "toasts": 11,
+    "first_seen": "2026-05-25T17:36:40.118Z",
+    "last_updated": "2026-05-25T17:36:40.118Z",
+    "published": "2026-05-24T22:32Z"
   }
 ]
