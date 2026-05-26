@@ -3,9 +3,9 @@
     "url": "https://xendo.bearblog.dev/stop-doing-easy-things/",
     "title": "Stop doing easy things",
     "author": "https://xendo.bearblog.dev",
-    "toasts": 20,
+    "toasts": 22,
     "first_seen": "2026-05-25T09:29:30.605Z",
-    "last_updated": "2026-05-26T13:11:21.410Z",
+    "last_updated": "2026-05-26T15:08:31.194Z",
     "published": "2026-05-25T07:41Z"
   },
   {
@@ -21,9 +21,9 @@
     "url": "https://valentine.bearblog.dev/two-years-of-blogging/",
     "title": "two years of blogging",
     "author": "https://valentine.bearblog.dev",
-    "toasts": 21,
+    "toasts": 23,
     "first_seen": "2026-05-25T16:48:33.372Z",
-    "last_updated": "2026-05-26T13:11:21.410Z",
+    "last_updated": "2026-05-26T15:08:31.194Z",
     "published": "2026-05-25T14:56Z"
   },
   {
@@ -84,9 +84,9 @@
     "url": "https://otherorder.bearblog.dev/you-dont-have-to-know-who-you-are/",
     "title": "You don't have to know who you are",
     "author": "https://otherorder.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-26T05:27:42.496Z",
-    "last_updated": "2026-05-26T09:20:36.081Z",
+    "last_updated": "2026-05-26T15:08:31.194Z",
     "published": "2026-05-25T20:33Z"
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://bx.bearblog.dev/the-sun-is-not-your-friend/",
     "title": "the sun is not your friend",
     "author": "https://bx.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-05-26T07:23:19.258Z",
-    "last_updated": "2026-05-26T13:11:21.410Z",
+    "last_updated": "2026-05-26T15:08:31.194Z",
     "published": "2026-05-25T21:47Z"
   },
   {
@@ -115,5 +115,14 @@
     "first_seen": "2026-05-26T13:11:21.410Z",
     "last_updated": "2026-05-26T13:11:21.410Z",
     "published": "2026-05-25T23:48Z"
+  },
+  {
+    "url": "https://rabb.bearblog.dev/inspired-to-create/",
+    "title": "Inspired To Create",
+    "author": "https://rabb.bearblog.dev",
+    "toasts": 5,
+    "first_seen": "2026-05-26T15:08:31.194Z",
+    "last_updated": "2026-05-26T15:08:31.194Z",
+    "published": "2026-05-25T15:56Z"
   }
 ]
