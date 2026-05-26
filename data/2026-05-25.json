@@ -21,9 +21,9 @@
     "url": "https://valentine.bearblog.dev/two-years-of-blogging/",
     "title": "two years of blogging",
     "author": "https://valentine.bearblog.dev",
-    "toasts": 14,
+    "toasts": 16,
     "first_seen": "2026-05-25T16:48:33.372Z",
-    "last_updated": "2026-05-26T00:59:42.066Z",
+    "last_updated": "2026-05-26T07:23:19.258Z",
     "published": "2026-05-25T14:56Z"
   },
   {
@@ -84,18 +84,27 @@
     "url": "https://otherorder.bearblog.dev/you-dont-have-to-know-who-you-are/",
     "title": "You don't have to know who you are",
     "author": "https://otherorder.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-26T05:27:42.496Z",
-    "last_updated": "2026-05-26T05:27:42.496Z",
+    "last_updated": "2026-05-26T07:23:19.258Z",
     "published": "2026-05-25T20:33Z"
   },
   {
     "url": "https://aroma.bearblog.dev/reframing-social-interactions/",
     "title": "reframing social interactions",
     "author": "https://aroma.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-26T05:27:42.496Z",
-    "last_updated": "2026-05-26T05:27:42.496Z",
+    "last_updated": "2026-05-26T07:23:19.258Z",
     "published": "2026-05-25T23:13Z"
+  },
+  {
+    "url": "https://bx.bearblog.dev/the-sun-is-not-your-friend/",
+    "title": "the sun is not your friend",
+    "author": "https://bx.bearblog.dev",
+    "toasts": 10,
+    "first_seen": "2026-05-26T07:23:19.258Z",
+    "last_updated": "2026-05-26T07:23:19.258Z",
+    "published": "2026-05-25T21:47Z"
   }
 ]
