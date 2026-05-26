@@ -12,18 +12,18 @@
     "url": "https://blog.avas.space/eu-washing/",
     "title": "beware of EU-washing",
     "author": "https://blog.avas.space",
-    "toasts": 44,
+    "toasts": 47,
     "first_seen": "2026-05-24T10:38:04.879Z",
-    "last_updated": "2026-05-26T00:59:42.066Z",
+    "last_updated": "2026-05-26T13:11:21.410Z",
     "published": "2026-05-24T08:34Z"
   },
   {
     "url": "https://diels-daydreams.bearblog.dev/my-blog-isnt-my-diary-its-my-friend/",
     "title": "My blog isn’t my diary, it’s my friend",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-05-24T16:26:45.799Z",
-    "last_updated": "2026-05-25T15:09:27.766Z",
+    "last_updated": "2026-05-26T13:11:21.410Z",
     "published": "2026-05-24T16:00Z"
   },
   {
@@ -48,18 +48,18 @@
     "url": "https://arnau.bearblog.dev/build-a-library/",
     "title": "build a library",
     "author": "https://arnau.bearblog.dev",
-    "toasts": 51,
+    "toasts": 56,
     "first_seen": "2026-05-24T19:33:37.839Z",
-    "last_updated": "2026-05-26T09:20:36.081Z",
+    "last_updated": "2026-05-26T13:11:21.410Z",
     "published": "2026-05-24T18:56Z"
   },
   {
     "url": "https://robertbirming.com/bear-gallery-upload-plugin/",
     "title": "Bear gallery upload plugin",
     "author": "https://robertbirming.com",
-    "toasts": 26,
+    "toasts": 32,
     "first_seen": "2026-05-24T19:33:37.839Z",
-    "last_updated": "2026-05-26T07:23:19.258Z",
+    "last_updated": "2026-05-26T13:11:21.410Z",
     "published": "2026-05-24T16:36Z"
   },
   {
@@ -147,9 +147,18 @@
     "url": "https://bahadir.digital/claude-el-kitabi/",
     "title": "Claude El Kitabı",
     "author": "https://bahadir.digital",
-    "toasts": 28,
+    "toasts": 29,
     "first_seen": "2026-05-25T17:36:40.118Z",
-    "last_updated": "2026-05-26T09:20:36.081Z",
+    "last_updated": "2026-05-26T13:11:21.410Z",
     "published": "2026-05-24T22:32Z"
+  },
+  {
+    "url": "https://thediaryoflouaura.bearblog.dev/bless-the-people-keeping-it-fair/",
+    "title": "Bless the People Keeping it Fair",
+    "author": "https://thediaryoflouaura.bearblog.dev",
+    "toasts": 9,
+    "first_seen": "2026-05-26T13:11:21.410Z",
+    "last_updated": "2026-05-26T13:11:21.410Z",
+    "published": "2026-05-24T15:59Z"
   }
 ]

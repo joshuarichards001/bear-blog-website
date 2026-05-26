@@ -3,9 +3,9 @@
     "url": "https://xendo.bearblog.dev/stop-doing-easy-things/",
     "title": "Stop doing easy things",
     "author": "https://xendo.bearblog.dev",
-    "toasts": 19,
+    "toasts": 20,
     "first_seen": "2026-05-25T09:29:30.605Z",
-    "last_updated": "2026-05-25T22:27:52.948Z",
+    "last_updated": "2026-05-26T13:11:21.410Z",
     "published": "2026-05-25T07:41Z"
   },
   {
@@ -21,18 +21,18 @@
     "url": "https://valentine.bearblog.dev/two-years-of-blogging/",
     "title": "two years of blogging",
     "author": "https://valentine.bearblog.dev",
-    "toasts": 16,
+    "toasts": 21,
     "first_seen": "2026-05-25T16:48:33.372Z",
-    "last_updated": "2026-05-26T07:23:19.258Z",
+    "last_updated": "2026-05-26T13:11:21.410Z",
     "published": "2026-05-25T14:56Z"
   },
   {
     "url": "https://nostalgia.bearblog.dev/quote-unquote-autistic/",
     "title": "four adults discussing an \"autistic\" daughter in a restaurant",
     "author": "https://nostalgia.bearblog.dev",
-    "toasts": 12,
+    "toasts": 13,
     "first_seen": "2026-05-25T18:41:03.541Z",
-    "last_updated": "2026-05-26T01:46:12.797Z",
+    "last_updated": "2026-05-26T13:11:21.410Z",
     "published": "2026-05-25T04:49Z"
   },
   {
@@ -57,9 +57,9 @@
     "url": "https://blog.lauramichet.com/ive-recorded-something-like-80-new-species-on-inat-since-going-on-vacation/",
     "title": "I've recorded something like 80 new species on iNat since going on vacation",
     "author": "https://blog.lauramichet.com",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-25T23:29:27.890Z",
-    "last_updated": "2026-05-25T23:29:27.890Z",
+    "last_updated": "2026-05-26T13:11:21.410Z",
     "published": "2026-05-25T05:09Z"
   },
   {
@@ -102,9 +102,18 @@
     "url": "https://bx.bearblog.dev/the-sun-is-not-your-friend/",
     "title": "the sun is not your friend",
     "author": "https://bx.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-05-26T07:23:19.258Z",
-    "last_updated": "2026-05-26T09:20:36.081Z",
+    "last_updated": "2026-05-26T13:11:21.410Z",
     "published": "2026-05-25T21:47Z"
+  },
+  {
+    "url": "https://valerialoves.com/my-dads-first-rpg-was-roach-motel/",
+    "title": "My Dad’s First RPG was Roach Motel",
+    "author": "https://valerialoves.com",
+    "toasts": 8,
+    "first_seen": "2026-05-26T13:11:21.410Z",
+    "last_updated": "2026-05-26T13:11:21.410Z",
+    "published": "2026-05-25T23:48Z"
   }
 ]
