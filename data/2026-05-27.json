@@ -21,9 +21,9 @@
     "url": "https://herman.bearblog.dev/resurfacing-posts/",
     "title": "Resurfacing posts",
     "author": "https://herman.bearblog.dev",
-    "toasts": 31,
+    "toasts": 38,
     "first_seen": "2026-05-27T09:18:15.674Z",
-    "last_updated": "2026-05-27T13:22:20.561Z",
+    "last_updated": "2026-05-27T15:12:46.163Z",
     "published": "2026-05-27T06:45Z"
   },
   {
@@ -34,5 +34,23 @@
     "first_seen": "2026-05-27T11:19:32.068Z",
     "last_updated": "2026-05-27T13:22:20.561Z",
     "published": "2026-05-27T04:36Z"
+  },
+  {
+    "url": "https://autumn-wright.com/mina-the-hollower-review/",
+    "title": "The games that Mina the Hollower is not",
+    "author": "https://autumn-wright.com",
+    "toasts": 11,
+    "first_seen": "2026-05-27T15:12:46.163Z",
+    "last_updated": "2026-05-27T15:12:46.163Z",
+    "published": "2026-05-27T13:00Z"
+  },
+  {
+    "url": "https://reedybear.bearblog.dev/windows-removed-the-calculator-wtf/",
+    "title": "Windows removed the calculator wtf",
+    "author": "https://reedybear.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-27T15:12:46.163Z",
+    "last_updated": "2026-05-27T15:12:46.163Z",
+    "published": "2026-05-27T03:31Z"
   }
 ]
