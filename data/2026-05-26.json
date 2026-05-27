@@ -21,9 +21,9 @@
     "url": "https://megatechbody.bearblog.dev/my-trousers-exploded-at-a-wedding/",
     "title": "my trousers exploded at a wedding",
     "author": "https://megatechbody.bearblog.dev",
-    "toasts": 13,
+    "toasts": 16,
     "first_seen": "2026-05-26T18:55:09.496Z",
-    "last_updated": "2026-05-27T07:37:03.573Z",
+    "last_updated": "2026-05-27T11:19:32.068Z",
     "published": "2026-05-26T14:21Z"
   },
   {
@@ -66,9 +66,9 @@
     "url": "https://combatdavey.net/may-25-2026/",
     "title": "may 25 rx7",
     "author": "https://combatdavey.net",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-27T05:35:27.456Z",
-    "last_updated": "2026-05-27T05:35:27.456Z",
+    "last_updated": "2026-05-27T11:19:32.068Z",
     "published": "2026-05-26T03:59Z"
   },
   {
@@ -79,5 +79,14 @@
     "first_seen": "2026-05-27T05:35:27.456Z",
     "last_updated": "2026-05-27T05:35:27.456Z",
     "published": "2026-05-26T16:15Z"
+  },
+  {
+    "url": "https://lightlogged.blog/830-a-stroll-though-marburg/",
+    "title": "8/30 — A stroll through Marburg",
+    "author": "https://lightlogged.blog",
+    "toasts": 8,
+    "first_seen": "2026-05-27T11:19:32.068Z",
+    "last_updated": "2026-05-27T11:19:32.068Z",
+    "published": "2026-05-26T18:56Z"
   }
 ]
