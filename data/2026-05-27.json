@@ -21,9 +21,9 @@
     "url": "https://herman.bearblog.dev/resurfacing-posts/",
     "title": "Resurfacing posts",
     "author": "https://herman.bearblog.dev",
-    "toasts": 80,
+    "toasts": 83,
     "first_seen": "2026-05-27T09:18:15.674Z",
-    "last_updated": "2026-05-28T05:31:41.783Z",
+    "last_updated": "2026-05-28T09:24:55.036Z",
     "published": "2026-05-27T06:45Z"
   },
   {
@@ -48,27 +48,27 @@
     "url": "https://reedybear.bearblog.dev/windows-removed-the-calculator-wtf/",
     "title": "Windows removed the calculator wtf",
     "author": "https://reedybear.bearblog.dev",
-    "toasts": 32,
+    "toasts": 33,
     "first_seen": "2026-05-27T15:12:46.163Z",
-    "last_updated": "2026-05-28T07:31:49.046Z",
+    "last_updated": "2026-05-28T09:24:55.036Z",
     "published": "2026-05-27T03:31Z"
   },
   {
     "url": "https://tala.bearblog.dev/make-a-list-of-everything-you-hate-about-your-life/",
     "title": "make a list of everything you hate about your life",
     "author": "https://tala.bearblog.dev",
-    "toasts": 12,
+    "toasts": 14,
     "first_seen": "2026-05-27T17:12:31.830Z",
-    "last_updated": "2026-05-28T07:31:49.046Z",
+    "last_updated": "2026-05-28T09:24:55.036Z",
     "published": "2026-05-27T13:12Z"
   },
   {
     "url": "https://bx.bearblog.dev/the-only-friend-without-social-media/",
     "title": "the only friend without social media",
     "author": "https://bx.bearblog.dev",
-    "toasts": 54,
+    "toasts": 59,
     "first_seen": "2026-05-27T20:48:25.760Z",
-    "last_updated": "2026-05-28T07:31:49.046Z",
+    "last_updated": "2026-05-28T09:24:55.036Z",
     "published": "2026-05-27T19:40Z"
   },
   {
@@ -93,9 +93,9 @@
     "url": "https://anotherdayu.com/mycity/",
     "title": "熟悉一个城市",
     "author": "https://anotherdayu.com",
-    "toasts": 10,
+    "toasts": 13,
     "first_seen": "2026-05-28T03:19:07.790Z",
-    "last_updated": "2026-05-28T07:31:49.046Z",
+    "last_updated": "2026-05-28T09:24:55.036Z",
     "published": "2026-05-27T17:26Z"
   },
   {
@@ -106,5 +106,14 @@
     "first_seen": "2026-05-28T05:31:41.783Z",
     "last_updated": "2026-05-28T07:31:49.046Z",
     "published": "2026-05-27T20:19Z"
+  },
+  {
+    "url": "https://gorgonbones.bearblog.dev/evil-labyrinth-observations-and-thoughts-on-arcade-gaming-session-reports/",
+    "title": "Evil Labyrinth - Observations and Thoughts on Arcade Gaming Session Reports",
+    "author": "https://gorgonbones.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-05-28T09:24:55.036Z",
+    "last_updated": "2026-05-28T09:24:55.036Z",
+    "published": "2026-05-27T18:27Z"
   }
 ]
