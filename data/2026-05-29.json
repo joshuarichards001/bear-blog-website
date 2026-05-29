@@ -57,9 +57,9 @@
     "url": "https://euan.is/raging-about-red-flag-emails/",
     "title": "Is there ever justification for 'red flagging' emails?",
     "author": "https://euan.is",
-    "toasts": 11,
+    "toasts": 18,
     "first_seen": "2026-05-29T19:53:56.121Z",
-    "last_updated": "2026-05-29T20:54:01.404Z",
+    "last_updated": "2026-05-29T22:35:43.152Z",
     "published": "2026-05-29T19:15Z"
   },
   {
@@ -79,5 +79,32 @@
     "first_seen": "2026-05-29T19:53:56.121Z",
     "last_updated": "2026-05-29T21:39:02.460Z",
     "published": "2026-05-29T15:58Z"
+  },
+  {
+    "url": "https://justaqueerbookblog.bearblog.dev/its-not-a-bandwagon-reasons-i-hate-ai/",
+    "title": "It's Not a Bandwagon; Reasons I Hate AI",
+    "author": "https://justaqueerbookblog.bearblog.dev",
+    "toasts": 41,
+    "first_seen": "2026-05-29T22:35:43.152Z",
+    "last_updated": "2026-05-29T22:35:43.152Z",
+    "published": "2026-05-29T20:00Z"
+  },
+  {
+    "url": "https://blog.mattglassman.net/rip-monoculture/",
+    "title": "monoculture",
+    "author": "https://blog.mattglassman.net",
+    "toasts": 15,
+    "first_seen": "2026-05-29T22:35:43.152Z",
+    "last_updated": "2026-05-29T22:35:43.152Z",
+    "published": "2026-05-29T20:18Z"
+  },
+  {
+    "url": "https://swtlo.com/i-love-those-disc-loading-tray-sounds/",
+    "title": "I love those disc loading tray sounds",
+    "author": "https://swtlo.com",
+    "toasts": 8,
+    "first_seen": "2026-05-29T22:35:43.152Z",
+    "last_updated": "2026-05-29T22:35:43.152Z",
+    "published": "2026-05-29T17:36Z"
   }
 ]
