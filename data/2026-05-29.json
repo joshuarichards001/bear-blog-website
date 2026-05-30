@@ -21,9 +21,9 @@
     "url": "https://marcg.net/smoking-confounds-me/",
     "title": "Smoking confounds me",
     "author": "https://marcg.net",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-29T09:19:36.222Z",
-    "last_updated": "2026-05-29T18:59:49.115Z",
+    "last_updated": "2026-05-30T08:54:39.988Z",
     "published": "2026-05-29T06:03Z"
   },
   {
@@ -75,9 +75,9 @@
     "url": "https://days-place.bearblog.dev/coming-out-as-non-binary-a-few-quick-notes/",
     "title": "Coming out as non-binary - a few quick notes",
     "author": "https://days-place.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-29T19:53:56.121Z",
-    "last_updated": "2026-05-29T21:39:02.460Z",
+    "last_updated": "2026-05-30T08:54:39.988Z",
     "published": "2026-05-29T15:58Z"
   },
   {
@@ -93,45 +93,45 @@
     "url": "https://blog.mattglassman.net/rip-monoculture/",
     "title": "monoculture",
     "author": "https://blog.mattglassman.net",
-    "toasts": 21,
+    "toasts": 32,
     "first_seen": "2026-05-29T22:35:43.152Z",
-    "last_updated": "2026-05-30T07:09:44.966Z",
+    "last_updated": "2026-05-30T08:54:39.988Z",
     "published": "2026-05-29T20:18Z"
   },
   {
     "url": "https://swtlo.com/i-love-those-disc-loading-tray-sounds/",
     "title": "I love those disc loading tray sounds",
     "author": "https://swtlo.com",
-    "toasts": 9,
+    "toasts": 19,
     "first_seen": "2026-05-29T22:35:43.152Z",
-    "last_updated": "2026-05-30T01:00:09.665Z",
+    "last_updated": "2026-05-30T08:54:39.988Z",
     "published": "2026-05-29T17:36Z"
   },
   {
     "url": "https://mikeshuey.com/i-quit-my-successful-youtube-channel/",
     "title": "Why I eventually quit my successful (and profitable) YouTube channel",
     "author": "https://mikeshuey.com",
-    "toasts": 11,
+    "toasts": 20,
     "first_seen": "2026-05-30T01:00:09.665Z",
-    "last_updated": "2026-05-30T03:14:47.304Z",
+    "last_updated": "2026-05-30T08:54:39.988Z",
     "published": "2026-05-29T22:26Z"
   },
   {
     "url": "https://blog.fiddery.com/i-luv-stove-top-popcorn/",
     "title": "i luv stove top popcorn",
     "author": "https://blog.fiddery.com",
-    "toasts": 7,
+    "toasts": 10,
     "first_seen": "2026-05-30T01:00:09.665Z",
-    "last_updated": "2026-05-30T01:00:09.665Z",
+    "last_updated": "2026-05-30T08:54:39.988Z",
     "published": "2026-05-29T18:30Z"
   },
   {
     "url": "https://notebookery.bearblog.dev/wtf/",
     "title": "Where are you guys coming from?! What is happening?!",
     "author": "https://notebookery.bearblog.dev",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-30T03:14:47.304Z",
-    "last_updated": "2026-05-30T05:23:20.045Z",
+    "last_updated": "2026-05-30T08:54:39.988Z",
     "published": "2026-05-29T21:44Z"
   },
   {
@@ -142,5 +142,14 @@
     "first_seen": "2026-05-30T05:23:20.045Z",
     "last_updated": "2026-05-30T05:23:20.045Z",
     "published": "2026-05-29T20:03Z"
+  },
+  {
+    "url": "https://tugbakibar.pro/nonsense-botany/",
+    "title": "nonsense botany",
+    "author": "https://tugbakibar.pro",
+    "toasts": 7,
+    "first_seen": "2026-05-30T08:54:39.988Z",
+    "last_updated": "2026-05-30T08:54:39.988Z",
+    "published": "2026-05-29T21:24Z"
   }
 ]
