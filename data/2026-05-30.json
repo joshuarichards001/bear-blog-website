@@ -3,18 +3,27 @@
     "url": "https://dotasciiali.bearblog.dev/my-first-and-only-post-about-ai/",
     "title": "My first and ONLY post about A.I.",
     "author": "https://dotasciiali.bearblog.dev",
-    "toasts": 9,
+    "toasts": 10,
     "first_seen": "2026-05-30T08:54:39.988Z",
-    "last_updated": "2026-05-30T10:38:32.127Z",
+    "last_updated": "2026-05-30T16:27:56.149Z",
     "published": "2026-05-30T01:18Z"
   },
   {
     "url": "https://justiz.bearblog.dev/hello-there-bear/",
     "title": "Hello there, Bear! ʕ｡•ﻌ•｡ʔ",
     "author": "https://justiz.bearblog.dev",
-    "toasts": 11,
+    "toasts": 12,
     "first_seen": "2026-05-30T12:33:41.942Z",
-    "last_updated": "2026-05-30T14:36:53.140Z",
+    "last_updated": "2026-05-30T16:27:56.149Z",
     "published": "2026-05-30T09:46Z"
+  },
+  {
+    "url": "https://valentine.bearblog.dev/im-about-to-finish-college/",
+    "title": "i'm about to finish college",
+    "author": "https://valentine.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-05-30T16:27:56.149Z",
+    "last_updated": "2026-05-30T16:27:56.149Z",
+    "published": "2026-05-30T05:14Z"
   }
 ]
