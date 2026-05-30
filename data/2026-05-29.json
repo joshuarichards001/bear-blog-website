@@ -48,18 +48,18 @@
     "url": "https://tala.bearblog.dev/the-cage-is-open-why-are-you-still-in-there-new/",
     "title": "the cage is open. why are you still in there?",
     "author": "https://tala.bearblog.dev",
-    "toasts": 10,
+    "toasts": 11,
     "first_seen": "2026-05-29T17:17:15.325Z",
-    "last_updated": "2026-05-29T18:59:49.115Z",
+    "last_updated": "2026-05-30T01:00:09.665Z",
     "published": "2026-05-29T14:29Z"
   },
   {
     "url": "https://euan.is/raging-about-red-flag-emails/",
     "title": "Is there ever justification for 'red flagging' emails?",
     "author": "https://euan.is",
-    "toasts": 19,
+    "toasts": 20,
     "first_seen": "2026-05-29T19:53:56.121Z",
-    "last_updated": "2026-05-29T23:33:59.258Z",
+    "last_updated": "2026-05-30T01:00:09.665Z",
     "published": "2026-05-29T19:15Z"
   },
   {
@@ -84,27 +84,45 @@
     "url": "https://justaqueerbookblog.bearblog.dev/its-not-a-bandwagon-reasons-i-hate-ai/",
     "title": "It's Not a Bandwagon; Reasons I Hate AI",
     "author": "https://justaqueerbookblog.bearblog.dev",
-    "toasts": 41,
+    "toasts": 49,
     "first_seen": "2026-05-29T22:35:43.152Z",
-    "last_updated": "2026-05-29T22:35:43.152Z",
+    "last_updated": "2026-05-30T01:00:09.665Z",
     "published": "2026-05-29T20:00Z"
   },
   {
     "url": "https://blog.mattglassman.net/rip-monoculture/",
     "title": "monoculture",
     "author": "https://blog.mattglassman.net",
-    "toasts": 15,
+    "toasts": 16,
     "first_seen": "2026-05-29T22:35:43.152Z",
-    "last_updated": "2026-05-29T22:35:43.152Z",
+    "last_updated": "2026-05-30T01:00:09.665Z",
     "published": "2026-05-29T20:18Z"
   },
   {
     "url": "https://swtlo.com/i-love-those-disc-loading-tray-sounds/",
     "title": "I love those disc loading tray sounds",
     "author": "https://swtlo.com",
-    "toasts": 8,
+    "toasts": 9,
     "first_seen": "2026-05-29T22:35:43.152Z",
-    "last_updated": "2026-05-29T22:35:43.152Z",
+    "last_updated": "2026-05-30T01:00:09.665Z",
     "published": "2026-05-29T17:36Z"
+  },
+  {
+    "url": "https://mikeshuey.com/i-quit-my-successful-youtube-channel/",
+    "title": "Why I eventually quit my successful (and profitable) YouTube channel",
+    "author": "https://mikeshuey.com",
+    "toasts": 9,
+    "first_seen": "2026-05-30T01:00:09.665Z",
+    "last_updated": "2026-05-30T01:00:09.665Z",
+    "published": "2026-05-29T22:26Z"
+  },
+  {
+    "url": "https://blog.fiddery.com/i-luv-stove-top-popcorn/",
+    "title": "i luv stove top popcorn",
+    "author": "https://blog.fiddery.com",
+    "toasts": 7,
+    "first_seen": "2026-05-30T01:00:09.665Z",
+    "last_updated": "2026-05-30T01:00:09.665Z",
+    "published": "2026-05-29T18:30Z"
   }
 ]
