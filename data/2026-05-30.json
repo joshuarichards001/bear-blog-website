@@ -12,18 +12,18 @@
     "url": "https://justiz.bearblog.dev/hello-there-bear/",
     "title": "Hello there, Bear! ʕ｡•ﻌ•｡ʔ",
     "author": "https://justiz.bearblog.dev",
-    "toasts": 17,
+    "toasts": 18,
     "first_seen": "2026-05-30T12:33:41.942Z",
-    "last_updated": "2026-05-30T23:26:47.655Z",
+    "last_updated": "2026-05-31T01:06:09.608Z",
     "published": "2026-05-30T09:46Z"
   },
   {
     "url": "https://valentine.bearblog.dev/im-about-to-finish-college/",
     "title": "i'm about to finish college",
     "author": "https://valentine.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-05-30T16:27:56.149Z",
-    "last_updated": "2026-05-30T16:27:56.149Z",
+    "last_updated": "2026-05-31T01:06:09.608Z",
     "published": "2026-05-30T05:14Z"
   },
   {
@@ -39,9 +39,9 @@
     "url": "https://blog.absurdpirate.com/im-so-tired-of-ads/",
     "title": "I'm So Tired of Ads",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 18,
+    "toasts": 21,
     "first_seen": "2026-05-30T21:25:37.929Z",
-    "last_updated": "2026-05-30T23:26:47.655Z",
+    "last_updated": "2026-05-31T01:06:09.608Z",
     "published": "2026-05-30T20:05Z"
   },
   {
@@ -52,5 +52,32 @@
     "first_seen": "2026-05-30T21:25:37.929Z",
     "last_updated": "2026-05-30T21:25:37.929Z",
     "published": "2026-05-30T06:08Z"
+  },
+  {
+    "url": "https://scottrichmond.me/moral-education-and-critical-thinking/",
+    "title": "Moral Education and Critical Thinking",
+    "author": "https://scottrichmond.me",
+    "toasts": 7,
+    "first_seen": "2026-05-31T01:06:09.608Z",
+    "last_updated": "2026-05-31T01:06:09.608Z",
+    "published": "2026-05-30T19:01Z"
+  },
+  {
+    "url": "https://jerichards.me/on-starting-a-blog/",
+    "title": "On Starting a Blog",
+    "author": "https://jerichards.me",
+    "toasts": 7,
+    "first_seen": "2026-05-31T01:06:09.608Z",
+    "last_updated": "2026-05-31T01:06:09.608Z",
+    "published": "2026-05-30T15:09Z"
+  },
+  {
+    "url": "https://danieln.uk/uploading-images-on-bear/",
+    "title": "Uploading images on Bear",
+    "author": "https://danieln.uk",
+    "toasts": 7,
+    "first_seen": "2026-05-31T01:06:09.608Z",
+    "last_updated": "2026-05-31T01:06:09.608Z",
+    "published": "2026-05-30T09:09Z"
   }
 ]
