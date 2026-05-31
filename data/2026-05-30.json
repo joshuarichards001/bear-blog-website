@@ -12,9 +12,9 @@
     "url": "https://justiz.bearblog.dev/hello-there-bear/",
     "title": "Hello there, Bear! ʕ｡•ﻌ•｡ʔ",
     "author": "https://justiz.bearblog.dev",
-    "toasts": 18,
+    "toasts": 21,
     "first_seen": "2026-05-30T12:33:41.942Z",
-    "last_updated": "2026-05-31T01:06:09.608Z",
+    "last_updated": "2026-05-31T03:17:33.632Z",
     "published": "2026-05-30T09:46Z"
   },
   {
@@ -30,27 +30,27 @@
     "url": "https://blog.lauramichet.com/hire-me/",
     "title": "Hire Me",
     "author": "https://blog.lauramichet.com",
-    "toasts": 18,
+    "toasts": 20,
     "first_seen": "2026-05-30T20:27:26.576Z",
-    "last_updated": "2026-05-30T23:26:47.655Z",
+    "last_updated": "2026-05-31T03:17:33.632Z",
     "published": "2026-05-30T19:04Z"
   },
   {
     "url": "https://blog.absurdpirate.com/im-so-tired-of-ads/",
     "title": "I'm So Tired of Ads",
     "author": "https://blog.absurdpirate.com",
-    "toasts": 21,
+    "toasts": 26,
     "first_seen": "2026-05-30T21:25:37.929Z",
-    "last_updated": "2026-05-31T01:06:09.608Z",
+    "last_updated": "2026-05-31T03:17:33.632Z",
     "published": "2026-05-30T20:05Z"
   },
   {
     "url": "https://receipts.bearblog.dev/to-be-loved-is-to-be-understood/",
     "title": "to be loved is to be understood",
     "author": "https://receipts.bearblog.dev",
-    "toasts": 7,
+    "toasts": 8,
     "first_seen": "2026-05-30T21:25:37.929Z",
-    "last_updated": "2026-05-30T21:25:37.929Z",
+    "last_updated": "2026-05-31T03:17:33.632Z",
     "published": "2026-05-30T06:08Z"
   },
   {
@@ -79,5 +79,32 @@
     "first_seen": "2026-05-31T01:06:09.608Z",
     "last_updated": "2026-05-31T01:06:09.608Z",
     "published": "2026-05-30T09:09Z"
+  },
+  {
+    "url": "https://nostalgia.bearblog.dev/netanyahus-mom/",
+    "title": "about my representative trying to be Netanyahu's mom",
+    "author": "https://nostalgia.bearblog.dev",
+    "toasts": 25,
+    "first_seen": "2026-05-31T03:17:33.632Z",
+    "last_updated": "2026-05-31T03:17:33.632Z",
+    "published": "2026-05-30T10:41Z"
+  },
+  {
+    "url": "https://rnotte.art/we-are-becoming-more-alone/",
+    "title": "we are becoming more alone",
+    "author": "https://rnotte.art",
+    "toasts": 7,
+    "first_seen": "2026-05-31T03:17:33.632Z",
+    "last_updated": "2026-05-31T03:17:33.632Z",
+    "published": "2026-05-30T21:34Z"
+  },
+  {
+    "url": "https://lightlogged.blog/overgrowth-beauty/",
+    "title": "Overgrowth & Beauty",
+    "author": "https://lightlogged.blog",
+    "toasts": 7,
+    "first_seen": "2026-05-31T03:17:33.632Z",
+    "last_updated": "2026-05-31T03:17:33.632Z",
+    "published": "2026-05-30T16:13Z"
   }
 ]
