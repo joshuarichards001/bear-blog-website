@@ -12,27 +12,27 @@
     "url": "https://robertbirming.com/junited-2026-blog-sharing/",
     "title": "Junited 2026, a blog sharing month",
     "author": "https://robertbirming.com",
-    "toasts": 23,
+    "toasts": 25,
     "first_seen": "2026-05-31T17:28:03.981Z",
-    "last_updated": "2026-06-01T10:05:59.802Z",
+    "last_updated": "2026-06-01T12:56:17.015Z",
     "published": "2026-05-31T14:48Z"
   },
   {
     "url": "https://meoww.bearblog.dev/dating-updatei-broke-up-with-my-bf-yay/",
     "title": "Dating Update: I broke up with my bf, yay!",
     "author": "https://meoww.bearblog.dev",
-    "toasts": 11,
+    "toasts": 13,
     "first_seen": "2026-05-31T19:33:41.411Z",
-    "last_updated": "2026-06-01T07:59:32.993Z",
+    "last_updated": "2026-06-01T12:56:17.015Z",
     "published": "2026-05-31T14:52Z"
   },
   {
     "url": "https://obscoru.bearblog.dev/i-finally-posted/",
     "title": "I Finally Posted",
     "author": "https://obscoru.bearblog.dev",
-    "toasts": 14,
+    "toasts": 18,
     "first_seen": "2026-05-31T22:26:09.863Z",
-    "last_updated": "2026-06-01T10:05:59.802Z",
+    "last_updated": "2026-06-01T12:56:17.015Z",
     "published": "2026-05-31T20:23Z"
   },
   {
@@ -57,9 +57,27 @@
     "url": "https://diels-daydreams.bearblog.dev/garden-photodump/",
     "title": "Garden photodump 📸",
     "author": "https://diels-daydreams.bearblog.dev",
-    "toasts": 6,
+    "toasts": 7,
     "first_seen": "2026-06-01T05:45:18.490Z",
-    "last_updated": "2026-06-01T05:45:18.490Z",
+    "last_updated": "2026-06-01T12:56:17.015Z",
     "published": "2026-05-31T16:25Z"
+  },
+  {
+    "url": "https://receipts.bearblog.dev/navel-gazing/",
+    "title": "navel gazing",
+    "author": "https://receipts.bearblog.dev",
+    "toasts": 7,
+    "first_seen": "2026-06-01T12:56:17.015Z",
+    "last_updated": "2026-06-01T12:56:17.015Z",
+    "published": "2026-05-31T05:58Z"
+  },
+  {
+    "url": "https://martingwd.bearblog.dev/junited-2026/",
+    "title": "My Junited 2026 list",
+    "author": "https://martingwd.bearblog.dev",
+    "toasts": 6,
+    "first_seen": "2026-06-01T12:56:17.015Z",
+    "last_updated": "2026-06-01T12:56:17.015Z",
+    "published": "2026-05-31T21:03Z"
   }
 ]
