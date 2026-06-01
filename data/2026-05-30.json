@@ -12,9 +12,9 @@
     "url": "https://justiz.bearblog.dev/hello-there-bear/",
     "title": "Hello there, Bear! ʕ｡•ﻌ•｡ʔ",
     "author": "https://justiz.bearblog.dev",
-    "toasts": 62,
+    "toasts": 65,
     "first_seen": "2026-05-30T12:33:41.942Z",
-    "last_updated": "2026-06-01T18:08:32.131Z",
+    "last_updated": "2026-06-01T20:31:13.445Z",
     "published": "2026-05-30T09:46Z"
   },
   {
@@ -156,9 +156,18 @@
     "url": "https://clearground.net/internet-radio-stations/",
     "title": ". . : : internet radio stations : : . .",
     "author": "https://clearground.net",
-    "toasts": 8,
+    "toasts": 10,
     "first_seen": "2026-06-01T15:13:13.134Z",
-    "last_updated": "2026-06-01T18:08:32.131Z",
+    "last_updated": "2026-06-01T20:31:13.445Z",
     "published": "2026-05-30T22:32Z"
+  },
+  {
+    "url": "https://lightlogged.bearblog.dev/overgrowth-beauty/",
+    "title": "Overgrowth & Beauty",
+    "author": "https://lightlogged.bearblog.dev",
+    "toasts": 8,
+    "first_seen": "2026-06-01T20:31:13.445Z",
+    "last_updated": "2026-06-01T20:31:13.445Z",
+    "published": "2026-05-30T16:13Z"
   }
 ]
